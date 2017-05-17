@@ -21,7 +21,7 @@
 	}
 
 	a {
-		color: #1b6441;
+		color: black;
 		text-decoration: none;
 	}
 
@@ -93,11 +93,19 @@
 		padding-bottom: 4em;
 	}
 
+	header.essay {
+		padding-bottom: 1em;
+	}
+
+	header.visualization {
+		padding-bottom: 0;
+	}
+
 	header h2 {
 		margin: 0;
 		padding: 0;
 		font-size: 3em;
-		font-weight: 600;
+		font-weight: 700;
 	}
 
 	header .byline {

@@ -1,0 +1,47 @@
+---
+layout: main
+---
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<!-- Main -->
+<div id="main" class="wrapper style1" style="padding:0">
+	<div class="container">
+		<section>
+			<header class="visualization">
+				<h2>The Mysis Crisis: "Invasive" Shrimp Introductions in North America</h2>
+				<h3>Leif Fredrickson</h3>
+			</header>
+		</section>
+	</div>
+</div>
+
+<div id="mapid">
+	 <style>
+	#mapid { height: 680px; }
+	 </style>
+	<script>
+	var mymap = L.map('mapid').setView([43.5446, -96.7311], 5);
+	L.tileLayer('https://api.mapbox.com/styles/v1/leiffredrickson/cj1ciwbd7000h2rtcx6mene6l/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibGVpZmZyZWRyaWNrc29uIiwiYSI6ImNpeWc5anN3djAybTczM21nbDMxdHM1OWYifQ.BNEDhxiGIOA-u68GUpo56g', {
+			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+			maxZoom: 18,
+		 id: 'your.mapbox.project.id',
+		 accessToken: 'pk.eyJ1IjoibGVpZmZyZWRyaWNrc29uIiwiYSI6ImNpeWc5anN3djAybTczM21nbDMxdHM1OWYifQ.BNEDhxiGIOA-u68GUpo56g'
+	}).addTo(mymap);
+
+	// load GeoJSON from an external file
+	$.getJSON("mysis_routes_joined.geoJson",function(data){
+	 // add GeoJSON layer to the map once the file is loaded
+	 L.geoJson(data).addTo(mymap);
+	});
+	</script>
+</div>
+<div id="main" class="wrapper style1">
+	<div class="container">
+		<section>
+			<header class="visualization">
+				<p>From 1949 until the 1980s, fisheries managers introduced mysis shrimp into hundreds of freshwater lakes in North America. The hoped that this shrimp would provide a self-sustaining food source for game fish in low-nutrient ("oligotrophic") lakes. In many cases, however, these introductions resulted in the destruction of the fisheries the shrimp were intended to bolster.</p>
+			</header>
+		</section>
+	</div>
+</div>

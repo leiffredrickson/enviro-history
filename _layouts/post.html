@@ -5,14 +5,14 @@ layout: main
 	<div id="main" class="wrapper style1">
 		<div class="container">
 			<section>
-				<header class="major">
+				<header class="essay">
+					<img style="height:400px; width:auto" src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="">
 					<h2>{{ page.title }}</h2>
-					<span class="byline">{{ page.date | date_to_string }}</span>
 					<h3>{{ page.author }}</h3>
 				</header>
-				<img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="">
 				{{ page.content }}
-				<em>{{ page.authorbio }}</em>
+				<p><em>{{ page.authorbio }}</em>
+				<p><em>{{ page.date | date_to_string }}</em></P>
 			</section>
 		</div>
 	</div>
