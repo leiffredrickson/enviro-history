@@ -1,47 +1,329 @@
 ---
 layout: main
 ---
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
-<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-<!-- Main -->
-<div id="main" class="wrapper style1" style="padding:0">
-	<div class="container">
-		<section>
-			<header class="visualization">
-				<h2>The Mysis Crisis: "Invasive" Shrimp Introductions in North America</h2>
-				<h3>Leif Fredrickson</h3>
-			</header>
-		</section>
-	</div>
+<head>
+  <meta charset=utf-8 />
+  <title>Mysis Crisis</title>
+  <meta name="description" content="Between 1949 and 1980, fisheries scientists and managers introduced tiny mysis shrimp into hundreds of lakes in the hopes of increasing food for trout and salmon fisheries. In many cases, however, these shrimp introductions destroyed the very fisheries they were intended to help.">
+  <meta name="keywords" content="invasive species, exotic species, flathead lake, mysis, non-indigenous">
+  <meta name="author" content="Leif Fredrickson">
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <link title="timeline-styles" rel="stylesheet" href="styles/timeline.css">
+  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+<!-- The following is an external stylesheet for the map,
+    and an internal stylesheet for the for some specific map styling,
+    and for styling the nav bar and timer elements.
+    The external stylesheet applies to the whole document (at the moment),
+    so if this causes problems later may have to adjust
+    (see https://stackoverflow.com/questions/28651584/how-to-include-stylesheet-file-only-for-one-div)-->
+
+  <link href='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.css' rel='stylesheet' />
+  <!-- External stylesheet for fullscreen plugin-->
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
+  <style>
+    /*Style for the body using internal CSS*/
+
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      /*Style for the map using CSS id attribute ("map" is identified as a div element below)*/
+
+      #map {
+        position: static;
+        top: 0;
+        bottom: 0px;
+        width: 100%;
+      }
+      /*Create CSS color "variables" that can be used in different places.*/
+
+       :root {
+        --kokanee: rgb(255, 0, 153);
+        --lake: rgb(0, 155, 255);
+        --whitebass-steelhead: rgb(128, 114, 0);
+        --unintentional: rgb(255, 107, 0);
+        --rainbow: rgb(0, 255, 171);
+        --trout: rgb(1, 255, 255);
+        --kokanee-trout: rgb(173, 0, 255);
+      }
+      /*Style for navigation menu using CSS class attribute (nav element created below and given this CSS class)*/
+
+      .menu-ui {
+        background: rgb(240, 237, 228);
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        z-index: 1;
+        border-radius: 3px;
+        width: 170px;
+        border: 1px solid rgb(227, 255, 0);
+        opacity: 0.9;
+      }
+
+      .menu-ui a,
+      .menu-ui p {
+        font-family: sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: rgb(0, 0, 0);
+        display: block;
+        margin: 0;
+        padding: 0;
+        padding: 10px;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+        text-align: center;
+        opacity: 0.9;
+      }
+
+      .menu-ui a:first-child {
+        border-radius: 3px 3px 0 0;
+      }
+
+      .menu-ui a:last-child {
+        border: none;
+        border-radius: 0 0 3px 3px;
+      }
+
+      .menu-ui a:hover {
+        font-weight: bolder;
+        font-size: 12.5px;
+        opacity: 1.0;
+      }
+
+      .menu-ui a.active,
+      .menu-ui a.active:hover {
+        font-weight: bold;
+        color: rgb(0, 0, 0);
+        font-size: 14px;
+        opacity: 1.0;
+      }
+    }
+
+    .menu-ui.active {
+      opacity: 1.0;
+    }
+
+    #filter-kokanee {
+      background-color: var(--kokanee);
+    }
+
+    #filter-lake {
+      background-color: var(--lake)
+    }
+
+    #filter-whitebasssteelhead {
+      background-color: var(--whitebass-steelhead)
+    }
+
+    #filter-unintentional {
+      background-color: var(--unintentional)
+    }
+
+    #filter-rainbow {
+      background-color: var(--rainbow)
+    }
+
+    #filter-trout {
+      background-color: var(--trout)
+    }
+
+    #filter-kokaneetrout {
+      background-color: var(--kokanee-trout)
+    }
+    /* The path-start class is added to each line to manage its animation - this interpolates
+      between the starting and ending values for the stroke-dashoffset css property.
+      webkit is Chrome and Safari browsers; moz is Mozilla; o is Opera; nothing is Explorer/Edge */
+    .path-start {
+      -webkit-transition: stroke-dashoffset 5s ease-in;
+      -moz-transition: stroke-dashoffset 5s ease-in;
+      -o-transition: stroke-dashoffset 5s ease-in;
+      transition: stroke-dashoffset 2s ease-in;
+    }
+
+    /* These CSS rules affect the tooltips within maps with the custom-popup
+          class. The first group is for styling the click popup */
+    .custom-popup .leaflet-popup-content-wrapper {
+      background: rgb(0, 18, 37);
+      opacity: 0.8;
+      color: rgb(227, 255, 0);
+      font-size: 13px;
+      line-height: 13px;
+    }
+    .custom-popup .leaflet-popup-tip-container {
+      width: 30px;
+      height: 15px;
+    }
+    .custom-popup .leaflet-popup-tip {
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-top: 10px solid rgb(0, 18, 37);
+      opacity: 0.4;
+    }
+
+    /*These are for styling the tooltip hover */
+    .custom-popup .leaflet-tooltip {
+      background: rgb(0, 0, 0);
+      opacity: 0.4;
+      color: rgb(255, 255, 255);
+      font-size: 13px;
+      line-height: 13px;
+      border: none;
+    }
+
+    .leaflet-touch .leaflet-control-fullscreen a {
+      background-position: 0px 0px;
+    }
+    .leaflet-touch.leaflet-fullscreen-on .leaflet-control-fullscreen a {
+      background-position: 0px -26px;
+    }
+
+
+    .leaflet-container.dark .leaflet-bar, .leaflet-container.dark .leaflet-bar a {
+      border-color:rgb(227, 255, 0);
+      border-width:1px
+    }
+
+
+    .leaflet-control-fullscreen a {
+        background-image: url("images/fullscreen.png")
+    }
+
+    .leaflet-control-fullscreen a:hover {
+      background-image: url("images/fullscreen-light.png")
+    }
+
+  </style>
+
+</head>
+
+<body style="background-color:rgb(247, 249, 236)">
+
+  <div>
+
+    <h1>The Mysis Crisis: How Fisheries Scientists Turned an Isolated Shrimp into an "Invasive Species"</h1>
+    <p>Leif Fredrickson | January 15, 2017 | <a href="#notes-container">Page Updates</a> | <a href="#notes-container">Cite Page</a></p>
+    <p><b>How to use this page:</b> This page is best viewed on a large screen with a Chrome or Firefox browser. Start with the <a href="#timeline-container">timeline</a> to understand how the mysis crisis unfolded. Then explore the <a href="#map-container">map</a>, which visualizes where mysis shrimp were introduced to and from, and what fish species they were intended to bolster. For sources and further reading, see the <a href="#notes-container">notes</a> section.<span><img src="images/compass.svg" style="width:15px"></span></p>
+
+  </div>
+
+
+  <div id="timeline-container" style="width:100%; padding-bottom:20px; border-style:dotted; border-width:1px; border-color:rgb(181, 201, 223); background-color:rgb(227, 230, 205)">
+    <h2> Mysis Crisis Timeline </h2>
+
+    <div id='timeline-embed' style="width: 100%; height: 600px">
+
+      <script src='data/mysis-timedata.json'></script>
+      <script type="text/javascript">
+        var options = {
+          timenav_height: 150,
+          timenav_height_min: 150,
+          scale_factor: 1,
+          default_bg_color: {
+            r: 0,
+            g: 18,
+            b: 37
+          }
+        }
+
+        window.timeline = new TL.Timeline('timeline-embed', timedata, options);
+      </script>
+    </div>
+  </div>
+
+  <div style="height:40px; padding:30px 0px 50px">
+    <img src="images/compass.svg" style="width:40px; position:absolute; left:48%">
+    <img src="images/compass.svg" style="width:40px; position:absolute; left:23%">
+    <img src="images/compass.svg" style="width:40px; position:absolute; left:73%">
+  </div>
+
+
+  <div id='map-container' style="width:100%; padding-bottom:20px; border-style:dotted; border-width:1px; border-color:rgb(181, 201, 223); background-color:rgb(227, 230, 205)">
+
+    <h2>Mysis Crisis Map</h2>
+
+    <!-- Create div with map style above.
+    Style "dark" renders text/foreground light on dark background (default is vice versa) -->
+    <div id='map' class='dark custom-popup' style="height:55em; width:auto">
+
+      <!-- Create navigation bar with menu style above-->
+      <nav id='menu-ui' class='menu-ui'>
+        <p style="color:black; font-size:14px">Target Fish Species</p>
+        <a href='#' id='filter-all' style="color:black">Start Animation</a>
+        <a href='#' id='filter-rainbow' style="color:black">Rainbow Trout</a>
+        <a href='#' id='filter-lake' style="color:black">Lake Trout</a>
+        <a href='#' id='filter-trout' style="color:black">Trout (General)</a>
+        <a href='#' id='filter-kokaneetrout' style="color:black">Kokanee + Trout</a>
+        <a href='#' id='filter-kokanee' style="color:black">Kokanee Salmon</a>
+        <a href='#' id='filter-whitebasssteelhead' style="color:black">White Bass/Steelhead</a>
+        <a href='#' id='filter-unintentional' style="color:black">Unintentional</a>
+        <a href='#' id='filter-all-static' style="color:black">All Fish</a>
+      </nav>
+
+      <nav id='timer' style="position:relative; left:25%; top:77%; opacity: 0.8; border:1px solid rgb(227, 255, 0); background-color:rgb(0, 18, 37); width:230px" class='menu-ui'>
+        <p href='#' id="timer_container" style="font-size:25px; color:rgb(227, 255, 0); border-bottom:none">Year: 1945</p>
+      </nav>
+
+      <!--The following are Mapbox.js libraries, which are extensions of Leaflet.js libraries.
+      Mapbox now has a new Javascript library, Mapbox GL JS, that renders maps using vector tils, Javascript and Web GL.
+      But Mapbox there are not equivalent examples for animating lines in Mapbox GL JS.
+      The Mapbox examples drawn on are:
+      1. "Animating Flight Paths," https://www.mapbox.com/mapbox.js/example/v1.0.0/animating-flight-paths/
+      2. "Filtering Markers," https://www.mapbox.com/mapbox.js/example/v1.0.0/filtering-markers/ -->
+      <script src='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.js'></script>
+      <!-- Plugin for putting arrows on lines -->
+      <script src="scripts/leaflet.polylineDecorator.js"></script>
+
+      <!-- Plugin to make paths into arcs. -->
+      <script src='https://api.mapbox.com/mapbox.js/plugins/arc.js/v0.1.0/arc.js'></script>
+
+      <!-- Plugin to add fullscreen option -->
+      <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
+
+      <script src="scripts/Leaflet.Sleep.js"></script>
+
+      <!-- This is the data file for creating lines from origin/destination points.
+      Had to add this to the first line of the original file: data =
+      so the first line of the file looks like this: data = {-->
+      <script src='data/mysis-data-all-na.geojson'></script>
+
+      <script src='data/nativeSource.geojson'></script>
+      <script src='data/unintentSource.geojson'></script>
+      <script src='data/unintentDestination.geojson'></script>
+
+      <script src='scripts/mysis-map-script.js'></script>
+
+    </div>
+
+  </div>
+
+  <div style="height:40px; padding:30px 0px 50px">
+    <img src="images/compass.svg" style="width:40px; position:absolute; left:48%">
+    <img src="images/compass.svg" style="width:40px; position:absolute; left:23%">
+    <img src="images/compass.svg" style="width:40px; position:absolute; left:73%">
+  </div>
+
+
+  <div id="notes-container" style="width:100%; padding-bottom:20px; border-style:dotted; border-width:1px; border-color:rgb(181, 201, 223); background-color:rgb(227, 230, 205)">
+    <h1>Notes and References</h1>
+        <p><b>Updates:</b> This page was first published on January 15, 2018. The current page has not been updated.</p>
+        <p><b>Citation:</b> Leif Fredrickson, "The Mysis Crisis: How Fisheries Scientists Turned an Isolated Shrimp into an 'Invasive Species,'" January 15, 2018, <i>Enviro-History</i>.</p>
+      <h4>Key References</h4>
+      <h4>Related Links on this Website</h4>
+        <p>Leif Fredrickson, "Animals and Plants on the Move through Time," <i>Enviro-History</i>.
+      <h4>Other Reading and Exploration</h4>
+      <h4>Image References</h4>
+        <p>
+          George Whipple, <i>Fresh Water Biology</i> (Wiley, 1918), 844. Available at <a href=https://archive.org/details/in.ernet.dli.2015.7374>Internet Archive<a>. Image credit: "After Smith" [Frank Smith].
+          <br>W.A. Clemens, D.S. Rawson, J.L. McHugh, "A Biological Survey of Okanagan Lake, British Columbia"
+          <br>Montana Game and Fish, "The Blueback Salmon of Flathead Lake," <i>Biennial Report</i>, (Montana Game and Fish, 1941-942), 30. Available at <a href=https://archive.org/details/biennialreportmo19411942montrich>Internet Archive</a>. Image credit: none listed.
+          <br>Greg Beaumont, <i>Many-storied mountains: the life of Glacier National Park,</i> (U.S. GPO, 1978), 95. Available at <a href=https://catalog.hathitrust.org/Record/007418449>HathiTrust<a>. Image credit: Greg Beaumont.
+          <br>
+        </p>
+
+
 </div>
 
-<div id="mapid">
-	 <style>
-	#mapid { height: 680px; }
-	 </style>
-	<script>
-	var mymap = L.map('mapid').setView([43.5446, -96.7311], 5);
-	L.tileLayer('https://api.mapbox.com/styles/v1/leiffredrickson/cj1ciwbd7000h2rtcx6mene6l/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibGVpZmZyZWRyaWNrc29uIiwiYSI6ImNpeWc5anN3djAybTczM21nbDMxdHM1OWYifQ.BNEDhxiGIOA-u68GUpo56g', {
-			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-			maxZoom: 18,
-		 id: 'your.mapbox.project.id',
-		 accessToken: 'pk.eyJ1IjoibGVpZmZyZWRyaWNrc29uIiwiYSI6ImNpeWc5anN3djAybTczM21nbDMxdHM1OWYifQ.BNEDhxiGIOA-u68GUpo56g'
-	}).addTo(mymap);
-
-	// load GeoJSON from an external file
-	$.getJSON("mysis_routes_joined.geoJson",function(data){
-	 // add GeoJSON layer to the map once the file is loaded
-	 L.geoJson(data).addTo(mymap);
-	});
-	</script>
-</div>
-<div id="main" class="wrapper style1">
-	<div class="container">
-		<section>
-			<header class="visualization">
-				<p>From 1949 until the 1980s, fisheries managers introduced mysis shrimp into hundreds of freshwater lakes in North America. The hoped that this shrimp would provide a self-sustaining food source for game fish in low-nutrient ("oligotrophic") lakes. In many cases, however, these introductions resulted in the destruction of the fisheries the shrimp were intended to bolster.</p>
-			</header>
-		</section>
-	</div>
-</div>
+</body>

@@ -1,0 +1,200 @@
+lake_name,lake_name_note,lon,lat,state_province,year,year_note,source,source_note,long_source,lat_source,intro_no,fish,fish_note,amount,amount_note,established,year_established,effect_note,effect_note,importance,about,joinID
+Lac La Hache,,-121.5,51.81,British Columbia,1975,,Canim Lake,,-120.75,51.86,1,kokanee,,30000,,no,,not_established,Not established.,,,1000
+Lac La Hache,,-121.5,51.81,British Columbia,1976,,Canim Lake,,-120.75,51.86,2,kokanee,,200000,,,,,,,,1001
+Twin Lakes Reservoir,Upper and Lower Twin Lakes,-106.33,39.08,Colorado,1957,,Clearwater Lake,Native,-94.1,45.29,1,lake,Primarily lake trout but also kokanee and other trout.,750,,yes,1969,Decline/elmination of Daphnia species (zooplankton). Decline of Kokanee salmon fishery.,Decline/elmination of Daphnia species (zooplankton). Decline of Kokanee salmon fishery.,1,"""In 1957 Colorado fisheries managers introduced mysis shrimp into Twin Lakes. This was the first site of a mysis shrimp introduction in the United States. (At the time Twin Lakes was a natural lake. But in 1978 the Bureau of Reclamation dammed the outlet and formed Twin Lakes Reservoir.) Robert Pennak, a well-known expert on invertebrate freshwater organisms, first suggested introducing mysis shrimp for fish food in 1951. The 1957, fisheries workers dumped a thermos-full of mysis shrimp from Green Lake, Wisconsin into Twin Lakes. In describing the transplant, lead biologist W.D. Klein emphasized lake trout as a target species, but also mentioned that kokanee might benefit. Like many other experimental plants, the mysis shrimp were largely forgotten until a state biologist surveying the lakes in 1968 found the lakes teeming with them.  Biologists quickly deemed a huge success, based both on the establishment of mysids and the extensive use of them as food by lake trout. Beginning in 1970, the mysis population in Twin Lakes was used for transplants to 57 lakes in at least four states."" ",1002
+Carter Lake Reservoir,,-105.22,40.34,Colorado,1980,Date for introduction is approximate.,Grand Lake,Intermountain diversions,-105.81,40.24,1,unintentional,, ,,yes,1986,,,,,1003
+Horsetooth Reservoir,,-105.16,40.56,Colorado,1980,Date for introduction is approximate.,Grand Lake,Intermountain diversions,-105.81,40.24,1,unintentional,,,,no,,not_established,Not established.,,,1004
+Lake Estes,,-105.5,40.38,Colorado,1980,Date for introduction is approximate.,Grand Lake,Intermountain diversions,-105.81,40.24,1,unintentional,, ,,yes,,,,,,1005
+Mary Lake,Mary's Lake,-104.86,39.82,Colorado,1980,Date for introduction is approximate.,Grand Lake,Intermountain diversions,-105.81,40.24,1,unintentional,, ,,yes,,,,,,1006
+Shadow Mountain Lake,,-105.84,40.23,Colorado,1980,Date for introduction is approximate.,Grand Lake,Intermountain diversions,-105.81,40.24,1,unintentional,, ,,yes,,,,,,1007
+Huntington Lake,,-119.2,37.24,California,1963,,Green Lake,Native,-88.96,43.844,1,trout,,20000,,yes,,,,1,,1008
+Kalamalka Lake,,-119.31,50.19,British Columbia,1965,,Kootenay Lake,,-116.87,49.6,1,kokanee,,145000,,yes,,kokanee_neg,Decrease in abundance of Kokanee salmon. No change in size of Kokanee salmon.,,,1022
+Pinaus Lake,,-119.59,50.43,British Columbia,1965,,Kootenay Lake,,-116.87,49.6,1,rainbow,,80000,,yes,,Increase in size of Rainbow trout.,Increase in size of Rainbow trout.,,,1039
+Anderson Ranch Reservoir,,-115.36,43.4,Idaho,1966,,Kootenay Lake,,-116.87,49.6,2,kokanee,,100000,,,,,,,,1011
+Kalamalka Lake,,-119.31,50.19,British Columbia,1966,,Kootenay Lake,,-116.87,49.6,2,kokanee,,95000,,,,,,,,1023
+Okanagan Lake,,-119.54,49.83,British Columbia,1966,,Kootenay Lake,,-116.87,49.6,1,kokanee,,240000,,yes,,Decrease in abundance of Kokanee salmon. Increase in size of Kokanee salmon.,Decrease in abundance of Kokanee salmon. Increase in size of Kokanee salmon.,1,,1032
+Pinaus Lake,,-119.59,50.43,British Columbia,1966,,Kootenay Lake,,-116.87,49.6,2,rainbow,,90000,,,,,,,,1040
+Redfish Lake,,-114.93,44.12,Idaho,1966,,Kootenay Lake,,-116.87,49.6,1,kokanee,,50000,,,,,,,,1042
+Wood Lake,,-119.38,50.1,British Columbia,1966,,Kootenay Lake,,-116.87,49.6,1,kokanee,,90000,,no,,not_established,Not established.,,,1057
+Alturas Lake,,-114.86,43.91,Idaho,1967,,Kootenay Lake,,-116.87,49.6,2,kokanee,,60000,,,,,,,,1009
+Anderson Ranch Reservoir,,-115.36,43.4,Idaho,1967,,Kootenay Lake,,-116.87,49.6,3,kokanee,,100000,,,,,,,,1012
+Canim Lake,,-120.75,51.86,British Columbia,1967,,Kootenay Lake,,-116.87,49.6,1,kokanee,,325000,,yes,,kokanee_neg,Decrease in abundance of Kokanee salmon. No information Lake Trout.,,,1014
+Lake Pend Oreille,,-116.33,48.18,Idaho,1967,,Kootenay Lake,,-116.87,49.6,2,kokanee,,210000,,,,,,,,1027
+Lower Kananaskis Lake,,-115.14,50.65,Alberta,1967,,Kootenay Lake,,-116.87,49.6,1,rainbow,,,"One report states that ""thousands"" were introduced.",yes,1982,,,,,1030
+Payette Lake,,-116.09,44.95,Idaho,1967,,Kootenay Lake,,-116.87,49.6,2,kokanee,,100000,,,,,,,,1036
+Pettit Lake,,-114.88,43.98,Idaho,1967,,Kootenay Lake,,-116.87,49.6,1,kokanee,,40000,,,,,,,,1038
+Priest Lake,,-116.87,48.59,Idaho,1967,,Kootenay Lake,,-116.87,49.6,3,kokanee,,300000,,,,,,,,1041
+Redfish Lake,,-114.93,44.12,Idaho,1967,,Kootenay Lake,,-116.87,49.6,2,kokanee,,60000,,,,,,,,1043
+Stanley Lake,,-115.06,44.24,Idaho,1967,,Kootenay Lake,,-116.87,49.6,2,kokanee,,40000,,,,,,,,1047
+Upper Kananaskis Lake,,-115.16,50.62,Alberta,1967,,Kootenay Lake,,-116.87,49.6,1,rainbow,,,"One report states that ""thousands"" were introduced.",yes,1982,,,,,1051
+Alturas Lake,,-114.86,43.91,Idaho,1968,,Kootenay Lake,,-116.87,49.6,3,kokanee,,42000,,,,,,,,1010
+Canim Lake,,-120.75,51.86,British Columbia,1968,,Kootenay Lake,,-116.87,49.6,2,lake,,300000,,,,,,,,1015
+Christina Lake,,-118.25,49.11,British Columbia,1968,,Kootenay Lake,,-116.87,49.6,1,kokanee,,80000,,yes,,No change in size of Kokanee salmon,No change in size of Kokanee salmon,,,1016
+Coeur D Alene Lake,,-116.8,47.54,Idaho,1968,,Kootenay Lake,,-116.87,49.6,1,kokanee,,200000,,no,,not_established,Not established.,2,,1017
+Lake Chelan,,-120.35,48.03,Washington,1968,,Kootenay Lake,,-116.87,49.6,1,kokanee,,500000,,yes,1975,,,2,,1024
+Lake Pend Oreille,,-116.33,48.18,Idaho,1968,,Kootenay Lake,,-116.87,49.6,3,kokanee,,300000,,,,,,,,1028
+Palisades Reservoir,,-111.11,43.23,Idaho,1968,,Kootenay Lake,,-116.87,49.6,1,kokanee,,115500,,,,,,,,1034
+Payette Lake,,-116.09,44.95,Idaho,1968,,Kootenay Lake,,-116.87,49.6,3,kokanee,,94500,,,,,,,,1037
+Redfish Lake,,-114.93,44.12,Idaho,1968,,Kootenay Lake,,-116.87,49.6,3,kokanee,,52500,,,,,,,,1044
+Stanley Lake,,-115.06,44.24,Idaho,1968,,Kootenay Lake,,-116.87,49.6,3,kokanee,,31500,,,,,,,,1048
+Upper Arrow Lake,,-117.84,50.25,British Columbia,1968,,Kootenay Lake,,-116.87,49.6,1,kokanee,,100000,,yes,,Decrease in abundance of Kokanee salmon. Increase in size of Kokanee salmon.,Decrease in abundance of Kokanee salmon. Increase in size of Kokanee salmon.,,,1049
+Upper Priest Lake,,-116.89,48.78,Idaho,1968,,Kootenay Lake,,-116.87,49.6,1,kokanee,,100000,,yes,1973,,,,,1053
+Coeur D Alene Lake,,-116.8,47.54,Idaho,1969,,Kootenay Lake,,-116.87,49.6,2,kokanee,,100000,,,,,,,,1018
+Lake Chelan,,-120.35,48.03,Washington,1969,,Kootenay Lake,,-116.87,49.6,2,kokanee,,500000,,,,,,,,1025
+Palisades Lake,,-113.58,47.69,Idaho,1969,,Kootenay Lake,,-116.87,49.6,1,kokanee,,40000,,,,,,,,1033
+Palisades Reservoir,,-111.11,43.23,Idaho,1969,,Kootenay Lake,,-116.87,49.6,2,kokanee,,210000,,,,,,,,1035
+Upper Payette Lake,,-116.02,45.13,Idaho,1969,,Kootenay Lake,,-116.87,49.6,1,kokanee,,75000,,,,,,,,1052
+Upper Priest Lake,,-116.89,48.78,Idaho,1969,,Kootenay Lake,,-116.87,49.6,2,kokanee,,100000,,,,,,,,1054
+Warm Lake,,-115.67,44.64,Idaho,1969,,Kootenay Lake,,-116.87,49.6,1,kokanee,,75000,,,,,,,,1055
+Moyie Lake,,-115.84,49.33,British Columbia,1970,,Kootenay Lake,,-116.87,49.6,1,kokanee,,250000,,yes,,Decrease in abundance of Kokanee salmon. No change in size of Kokanee salmon.,Decrease in abundance of Kokanee salmon. No change in size of Kokanee salmon.,,,1031
+Lake Chelan,,-120.35,48.03,Washington,1971,,Kootenay Lake,,-116.87,49.6,3,kokanee,,500000,,,,,,,,1026
+Cameron Lake,,-124.64,49.29,British Columbia,1973,,Kootenay Lake,,-116.87,49.6,1,kokanee,,150000,,no,,not_established,Not established.,,,1013
+Crowsnest Lake,,-114.64,49.63,Alberta,1973,,Kootenay Lake,,-116.87,49.6,1,lake,"primarily lake trout, but also kokanee",75000,,no,,,Not established.,,,1020
+Slocan Lake,,-117.43,49.88,British Columbia,1973,,Kootenay Lake,,-116.87,49.6,1,kokanee,,100000,,yes,,Increase in size of Kokanee salmon.,Increase in size of Kokanee salmon.,,,1045
+Coeur D Alene Lake,,-116.8,47.54,Idaho,1974,,Kootenay Lake,,-116.87,49.6,3,kokanee,,,,,,,,,,1019
+Lower Arrow Lake,,-118.07,49.42,British Columbia,1974,,Kootenay Lake,,-116.87,49.6,1,kokanee,,100000,,yes,,Decrease in abundance of Kokanee salmon. Increase in size of Kokanee salmon.,Decrease in abundance of Kokanee salmon. Increase in size of Kokanee salmon.,,,1029
+Slocan Lake,,-117.43,49.88,British Columbia,1974,,Kootenay Lake,,-116.87,49.6,2,kokanee,,100000,,,,,,,,1046
+Upper Arrow Lake,,-117.84,50.25,British Columbia,1974,,Kootenay Lake,,-116.87,49.6,2,kokanee,,500000,,,,,,,,1050
+Whatshan Lake,,-118.09,49.97,British Columbia,1974,,Kootenay Lake,,-116.87,49.6,1,kokanee,,100000,,no,,not_established,Not established.,,,1056
+Duncan Lake,,-116.97,50.39,British Columbia,1975,,Kootenay Lake,,-116.87,49.6,1,kokanee,,100000,,yes,,No change in abundance or size of Kokanee salmon.,No change in abundance or size of Kokanee salmon.,,,1021
+Jordan Pond,,-68.26,44.33,Maine,1971,,Lake Memphremagog,Native,-72.22,44.98,1,lake,,,,no,,not_established,Not established.,2,,1059
+Fourth Debsconeag Lake,,-69.08,45.75,Maine,1975,,Lake Memphremagog,Native,-72.22,44.98,1,lake,,15000,"The number introduced is approximated from a report that a total of 50,000 mysis shrimp were introduced into Maine lakes in 1975.",no,,not_established,Not established.,2,,1058
+Jordan Pond,,-68.26,44.33,Maine,1975,,Lake Memphremagog,Native,-72.22,44.98,2,lake,,15000,"The number introduced is approximated from a report that a total of 50,000 mysis shrimp were introduced into Maine lakes in 1975.",,,not_established,,,,1060
+Moosehead Lake,,-69.67,45.54,Maine,1975,,Lake Memphremagog,Native,-72.22,44.98,1,lake,,20000,"The number introduced is approximated from a report that a total of 50,000 mysis shrimp were introduced into Maine lakes in 1975.",yes,1984,nsk_change,No significant known change.,2,,1061
+Nantahala Lake,,-83.68,35.18,North Carolina,1970,,Lake Michigan,Native,-87.23,43.24,1,rainbow,,70000,,no,,not_established,Not established.,2,,1062
+Bull Lake,,-115.85,48.23,Montana,1975,,McGregor Lake  ,,-114.83,48.03,1,kokanee,,6000,,,,,,,,1063
+Dickey Lake,,-114.82,48.71,Montana,1975,,McGregor Lake  ,,-114.83,48.03,1,kokanee,,2000,,yes,1975,,,,,1064
+Lake Blaine,,-114.12,48.25,Montana,1975,,McGregor Lake  ,,-114.83,48.03,1,kokanee,,5000,,no,,not_established,Not established.,,,1066
+Middle Thompson Lake,,-115.07,48.03,Montana,1975,,McGregor Lake  ,,-114.83,48.03,1,kokanee,,14000,,no,,not_established,Not established.,,,1067
+Spar Lake,,-115.95,48.26,Montana,1975,,McGregor Lake  ,,-114.83,48.03,1,kokanee,,,,no,,not_established,Not established.,,,1068
+Swan Lake,,-113.88,47.94,Montana,1975,,McGregor Lake  ,,-114.83,48.03,1,kokanee,,14000,,yes,1980,,,2,,1069
+Tally Lake,,-114.56,48.41,Montana,1975,,McGregor Lake  ,,-114.83,48.03,1,kokanee,,2000,,no,,not_established,Not established.,,,1070
+Holland Lake,,-113.61,47.45,Montana,1976,,McGregor Lake  ,,-114.83,48.03,1,kokanee,,8000,,no,,not_established,Not established.,,,1065
+Grave Lake,,-114.83,49.86,British Columbia,1979,,Moyie Lake,,-115.84,49.33,1,kokanee,,250000,,no,,not_established,Not established.,,,1071
+Missezula Lake,,-120.52,49.79,British Columbia,1975,,Okanagan Lake,,-119.54,49.83,1,kokanee,,20000,,no,,not_established,Not established.,,,1081
+Otter Lake,,-120.77,49.58,British Columbia,1975,,Okanagan Lake,,-119.54,49.83,1,kokanee,,,,no,,not_established,Not established.,,,1084
+Missezula Lake,,-120.52,49.79,British Columbia,1976,,Okanagan Lake,,-119.54,49.83,2,kokanee,,200000,,,,,,,,1082
+Skaha Lake,,-119.59,49.41,British Columbia,1980,Date for introduction is approximate.,Okanagan Lake,Downstream drift,-119.54,49.83,1,unintentional,, ,,yes,,Decrease in abundance of Kokanee salmon. Increase in size of Kokanee salmon.,Decrease in abundance of Kokanee salmon. Increase in size of Kokanee salmon.,,,1085
+Osoyoos Lake,,-119.44,48.99,British Columbia,1990,Date for introduction is approximate.,Okanagan Lake,Downstream drift,-119.54,49.83,1,unintentional,, ,,yes,1999,,,,,1083
+Echo Lake (BC),,-118.71,50.2,British Columbia,1980,,Pinaus Lake,,-119.59,50.43,1,kokanee,,225000,,,,no_info,No information.,,,1086
+Grindstone Lake,,-93.01,46.12,Minnesota,1961,,Trout Lake,Native,-90.17,47.87,1,lake,,600,Report states that stocking averaged 200-1000 mysis per year from 1961 to 1964. ,yes,1965,,,1,,1087
+Grindstone Lake,,-93.01,46.12,Minnesota,1962,,Trout Lake,Native,-90.17,47.87,2,lake,,600,,,,,,,,1088
+Grindstone Lake,,-93.01,46.12,Minnesota,1963,,Trout Lake,Native,-90.17,47.87,3,lake,,600,,,,,,,,1089
+Big Creek Lake,,-106.73,40.66,Colorado,1969,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,yes,1991,,,,,1091
+Grand Lake,,-105.81,40.24,Colorado,1969,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,yes,,Decline/elmination of Daphnia species (zooplankton). Decline of Kokanee salmon fishery.,Decline/elmination of Daphnia species (zooplankton). Decline of Kokanee salmon fishery.,1,,1116
+Chapman Reservoir,Chapman Dam,-106.64,39.32,Colorado,1970,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1100
+Diemer Lake,,-106.61,39.33,Colorado,1970,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1109
+Dillon Reservoir,,-106.05,39.6,Colorado,1970,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,yes,1978,Decline/elmination of Daphnia species (zooplankton). Decline of Kokanee salmon fishery.,Decline/elmination of Daphnia species (zooplankton). Decline of Kokanee salmon fishery.,,,1110
+Ivanhoe Lake,,-106.5,39.27,Colorado,1970,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1121
+Ruedi Reservoir,,-106.8,39.37,Colorado,1970,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,yes,,,,,,1142
+Sellar Lake,,-106.59,39.32,Colorado,1970,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1143
+Aqua Fria Lake,,-106.64,40.63,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1090
+Big Creek Lake,,-106.73,40.66,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,2,lake,,,,,,,,,,1092
+Blue Lake (CO),,-106.62,40.82,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1095
+Chambers Lake,,-105.85,40.6,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1099
+Cheesman Lake,,-105.28,39.2,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,no,,not_established,Not established.,,,1101
+Clear Creek Reservoir,,-106.25,39.02,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1104
+Forest Lakes,,-105.67,39.92,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1114
+Gross Reservoir,,-105.36,39.95,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,yes,1993,,,,,1118
+Halfmoon Lake,,-110.43,43.83,Wyoming,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,,54000,,yes,1976,,,2,,1119
+Kelly Lake,,-105.96,40.63,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1123
+Lake Granby,,-105.86,40.16,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,kokanee,,,,yes,1986,Decline/changes in Daphnia species (zooplankton). Decline of Kokanee salmon fishery.,Decline/changes in Daphnia species (zooplankton). Decline of Kokanee salmon fishery.,,,1124
+Little Echo Lake,,-105.67,39.86,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1132
+Lost Man Reservoir,Lost Man Lake,-106.62,39.13,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1133
+Middle Piney,,-110.57,42.6,Wyoming,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,,54000,,no,,,,2,,1134
+Peggy Lake,,-106.64,40.83,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1137
+Rainbow Lake,,-106.63,40.65,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1139
+Rawah Lakes,Rawah Lake Number 4,-105.96,40.68,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1140
+Roxy Ann Lake,,-106.65,40.67,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1141
+Sugarbowl Lake,,-105.97,40.7,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1146
+Timberline Lake,,-105.68,40.6,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1149
+Upper Camp Lake,,-105.92,40.68,Colorado,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1151
+Willow Lake,,-109.89,43,Wyoming,1971,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,,54000,,yes,1977,,,2,,1153
+Big Creek Lake,,-106.73,40.66,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,3,lake,,,,,,,,,,1093
+Blodgett Lake,,-106.54,39.41,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1094
+Bowl of Tears Lake,,-106.47,39.46,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1096
+Capitol Lake,,-107.08,39.16,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,Primarily lake trout but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.,,,,,,,,,1097
+Chalk Lake,,-106.22,39.38,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1098
+Cheesman Lake,,-105.28,39.2,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,2,lake,,,,,,,,,,1102
+Crater Lakes,,-105.68,39.9,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1105
+Crystal Pond,,-106.11,39.44,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1106
+Deckers Lake,,-106.41,39.33,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1107
+Deep Lake,,-107.3,39.77,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1108
+Fish Lake,,-111.71,38.55,Utah,1972,The introduction date is approximate and the source is inferred as Twin Lakes (source stated as being from Colorado).,Twin Lakes Reservoir,,-106.33,39.08,2,trout,,,,,,,,,,1111
+Gold Dust Lakes,Gold Dust Lakes 1-5,-106.58,39.49,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1115
+Homestake Reservoir,,-106.47,39.36,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1120
+Jefferson Lake,,-105.86,39.46,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,yes,,,,,,1122
+Lake Oahe,,-100.41,44.93,South Dakota,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,,,,no,,,,,,1127
+New York Lake,,-106.6,39.49,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1135
+Pierre Lakes,,-107.07,39.14,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1138
+Silver King Lake,,-106.37,38.91,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1144
+Turquoise Lake,,-106.37,39.27,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,yes,1983,,,,,1150
+Willis Lake,,-106.44,39.02,Colorado,1972,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1152
+Lake Oahe,,-100.41,44.93,South Dakota,1973,,Twin Lakes Reservoir,,-106.33,39.08,2,lake,,,,no,,,,,,1128
+Pactola Lake,,-103.51,44.08,South Dakota,1973,,Twin Lakes Reservoir,,-106.33,39.08,1,kokanee,,,,no,,,,,,1136
+Taylor Park Reservoir,,-106.58,38.84,Colorado,1973,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,yes,1984,,,,,1147
+Cheesman Lake,,-105.28,39.2,Colorado,1974,,Twin Lakes Reservoir,,-106.33,39.08,3,lake,,,,,,,,,,1103
+Green Mountain Reservoir,,-106.3,39.88,Colorado,1974,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,no,,not_established,Not established.,,,1117
+Lake Oahe,,-100.41,44.93,South Dakota,1974,,Twin Lakes Reservoir,,-106.33,39.08,3,lake,,,,no,,,,,,1129
+Lake Sakakawea,,-102.33,47.79,North Dakota,1974,,Twin Lakes Reservoir,,-106.33,39.08,2,kokanee-trout,,,,no,,,,,,1130
+Stillwater Reservoir,,-107.13,40.02,Colorado,1974,,Twin Lakes Reservoir,,-106.33,39.08,1,lake,"Primarily lake trout, but also kokanee. The target species is inferred from newspaper articles and reports that all emphasize mysis for lake trout at least into the mid-1970s.",,,,,,,,,1145
+Taylor Park Reservoir,,-106.58,38.84,Colorado,1974,,Twin Lakes Reservoir,,-106.33,39.08,2,lake,,,,,,,,,,1148
+Fish Lake,,-111.71,38.55,Utah,1976,,Twin Lakes Reservoir,,-106.33,39.08,3,trout,,500000,,,,,,,,1112
+Lake Sakakawea,,-102.33,47.79,North Dakota,1979,,Twin Lakes Reservoir,,-106.33,39.08,3,kokanee-trout,,,,no,,,,,,1131
+Fontana Lake,,-83.66,35.42,North Carolina,1981,,Twin Lakes Reservoir,"The source is referred to as high mountain lake of Colorado, which was probably Twin Lakes.",-106.33,39.08,1,whitebass-steelhead,,,,,,,,2,,1113
+Lake James,,-81.95,35.74,North Carolina,1981,,Twin Lakes Reservoir,"The source is referred to as high mountain lake of Colorado, which was probably Twin Lakes.",-106.33,39.08,1,whitebass-steelhead,,,,,,,,2,,1125
+Spray Lakes,,-115.37,50.88,Alberta,1982,,Upper Kananskis Lake,,-115.16,50.62,1,lake,Primarily lake trout. But also kokanee.,,,no,,,Not established.,,,1154
+Kootenay Lake,,-116.87,49.6,British Columbia,1949,,Waterton Lake,Native,-113.9,48.98,1,rainbow,,6250,,yes,1960,Decline/changes in Daphnia species (zooplankton). Decreased abundance of Rainbow trout but increased size.,Decline/changes in Daphnia species (zooplankton). Decreased abundance of Rainbow trout but increased size.,1,,1161
+Kootenay Lake,,-116.87,49.6,British Columbia,1950,,Waterton Lake,Native,-113.9,48.98,2,rainbow,,6250,,,,,,,,1162
+Anderson Ranch Reservoir,,-115.36,43.4,Idaho,1965,,Waterton Lake,Native,-113.9,48.98,1,kokanee,,30000,,,,,,,,1156
+Island Lake,,-115.38,40.62,Nevada,1965,,Waterton Lake,Native,-113.9,48.98,1,trout,,2000,,yes,,,,,,1160
+Alturas Lake,,-114.86,43.91,Idaho,1966,,Waterton Lake,Native,-113.9,48.98,1,kokanee,,50000,,,,,,,,1155
+Lake Pend Oreille,,-116.33,48.18,Idaho,1966,,Waterton Lake,Native,-113.9,48.98,1,kokanee,,50000,,yes,1973,Decline/elmination of Daphnia species (zooplankton). Collapse of Kokanee population. ,Decline/elmination of Daphnia species (zooplankton). Collapse of Kokanee population. ,1,,1163
+Payette Lake,,-116.09,44.95,Idaho,1966,,Waterton Lake,Native,-113.9,48.98,1,kokanee,,100000,,,,,,,,1165
+Stanley Lake,,-115.06,44.24,Idaho,1966,,Waterton Lake,Native,-113.9,48.98,1,kokanee,,50000,,,,,,,,1166
+Bear Lake,,-111.33,42.02,Utah,1970,,Waterton Lake,Native,-113.9,48.98,1,lake,,75000,,,,,,2,,1157
+Fish Lake,,-111.71,38.55,Utah,1970,,Waterton Lake,Native,-113.9,48.98,1,trout,"Mysis were introduced for ""trout,"" but Fish Lake is predominantly a Lake Trout fishery, so probably for Lake Trout, but could also include Rainbow Trout.",,,yes,1986,,,2,,1159
+Causey Reservoir,Causey Creek Reservoir,-111.58,41.3,Utah,1971,,Waterton Lake,Native,-113.9,48.98,1,trout,"Target trout included Cutthroat, Brown, Brook, Rainbow Trout.",20000,,,,,,2,,1158
+Lake Sakakawea,,-102.33,47.79,North Dakota,1973,,Waterton Lake,Native,-113.9,48.98,1,kokanee-trout,,,,no,,,,,,1164
+Lake Tahoe,,-120.03,39.09,California,1963,,Waterton Lake ,Native,-113.9,48.98,1,lake,,82650,,yes,1969,Decline/elmination of Daphnia species (zooplankton). Collapse of Kokanee population. Decrease in abundance of Lake Trout. Decrease in size of Lake Trout.,Decline/elmination of Daphnia species (zooplankton). Collapse of Kokanee population. Decrease in abundance of Lake Trout. Decrease in size of Lake Trout.,1,,1182
+Lower Echo Lake,,-120.06,38.84,California,1963,,Waterton Lake ,Native,-113.9,48.98,1,trout,,15000,,yes,,,,,,1186
+Blue Lake (NV),,-118.72,41.68,Nevada,1964,,Waterton Lake ,Native,-113.9,48.98,1,lake,,2000,,yes,,,,,,1168
+Lake Tahoe,,-120.03,39.09,California,1964,,Waterton Lake ,Native,-113.9,48.98,2,lake,,58650,,,,,,,,1183
+Blue Lake (NV),,-118.72,41.68,Nevada,1965,,Waterton Lake ,Native,-113.9,48.98,2,trout,,2000,,,,,,,,1169
+Cultus Lake,,-121.85,43.84,Oregon,1965,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,26000,,yes,1988,,,,,1173
+Donner Lake,,-120.27,39.32,California,1965,,Waterton Lake ,Native,-113.9,48.98,1,trout,,26000,,yes,,Virtual disappearance of Daphnia species (zooplankton).,Virtual disappearance of Daphnia species (zooplankton).,,,1177
+Fallen Leaf Lake,,-120.06,38.9,California,1965,,Waterton Lake ,Native,-113.9,48.98,1,trout,,30000,,yes,,Virtual disappearance of Daphnia species (zooplankton).,Virtual disappearance of Daphnia species (zooplankton).,,,1178
+Lake Tahoe,,-120.03,39.09,California,1965,,Waterton Lake ,Native,-113.9,48.98,3,lake,,167700,,,,,,,,1184
+Lower Echo Lake,,-120.06,38.84,California,1965,,Waterton Lake ,Native,-113.9,48.98,2,trout,,12000,,,,,,,,1187
+Priest Lake,,-116.87,48.59,Idaho,1965,,Waterton Lake ,Native,-113.9,48.98,1,kokanee,,295000,,yes,1969,,,1,,1193
+Timothy Lake,Timothy Reservoir,-121.78,45.12,Oregon,1965,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,20000,,no,,not_established,Not established.,,,1196
+Waldo Lake,,-122.04,43.73,Oregon,1965,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,119000,,no,,not_established,Not established.,,,1200
+Wallowa Lake,,-117.21,45.31,Oregon,1965,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,130000,,yes,1986,,,2,,1203
+Crescent Lake,,-121.99,43.48,Oregon,1966,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,100000,,no,,not_established,Not established.,,,1170
+Cultus Lake,,-121.85,43.84,Oregon,1966,,Waterton Lake ,Native,-113.9,48.98,2,kokanee-trout,,90000,,,,,,,,1174
+Priest Lake,,-116.87,48.59,Idaho,1966,,Waterton Lake ,Native,-113.9,48.98,2,kokanee,,400000,,,,,,1,,1194
+Timothy Lake,,-121.78,45.12,Oregon,1966,,Waterton Lake ,Native,-113.9,48.98,2,kokanee-trout,,98000,,,,,,,,1197
+Waldo Lake,,-122.04,43.73,Oregon,1966,,Waterton Lake ,Native,-113.9,48.98,2,kokanee-trout,,200000,,,,,,,,1201
+Wallowa Lake,,-117.21,45.31,Oregon,1966,,Waterton Lake ,Native,-113.9,48.98,2,kokanee-trout,,130000,,,,,,,,1204
+Crescent Lake,,-121.99,43.48,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,2,kokanee-trout,,100000,,,,,,,,1171
+Cultus Lake,,-121.85,43.84,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,3,kokanee-trout,,100000,,,,,,,,1175
+Detroit Lake,Detroit Reservoir,-122.19,44.71,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,100000,,yes,1988,,,,,1176
+Fourmile Lake,,-122.25,42.47,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,75000,,no,,not_established,Not established.,,,1179
+Ice Lake,,-117.27,45.23,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,20000,,no,,not_established,Not established.,,,1180
+Kangaroo Lake,,-122.78,41.23,California,1967,,Waterton Lake ,Native,-113.9,48.98,1,lake,,28100,,,,,,,,1181
+Miller Lake,,-121.95,43.22,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,160000,,no,,not_established,Not established.,,,1189
+Odell Lake,,-122,43.57,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,125000,,no,,not_established,Not established.,,,1190
+Olive Lake,Olive Reservoir,-118.6,44.78,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,1,kokanee-trout,,20000,,yes,1987,,,,,1191
+Shasta Lake,,-122.37,40.77,California,1967,,Waterton Lake ,Native,-113.9,48.98,1,lake,,223150,,yes,,,,,,1195
+Timothy Lake,,-121.78,45.12,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,3,kokanee-trout,,60000,,,,,,,,1198
+Trinity Lake,Claire Engle Lake; Claire Eagle Lake,-122.75,40.8,California,1967,,Waterton Lake ,Native,-113.9,48.98,1,lake,,16400,,,,,,,,1199
+Waldo Lake,,-122.04,43.73,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,3,kokanee-trout,,200000,,,,,,,,1202
+Wallowa Lake,,-117.21,45.31,Oregon,1967,,Waterton Lake ,Native,-113.9,48.98,3,kokanee-trout,,130000,,,,,,,,1205
+Whiskeytown Lake,,-122.56,40.63,California,1967,,Waterton Lake ,Native,-113.9,48.98,1,lake,,3250,,,,,,,,1206
+Ashley Lake,,-114.6,48.21,Montana,1968,,Waterton Lake ,Native,-113.9,48.98,1,kokanee,,4250,,yes,1974,,,,,1167
+Crystal Lake,,-116.55,45.22,Montana,1968,,Waterton Lake ,Native,-113.9,48.98,1,kokanee,,4250,,no,,not_established,Not established.,,,1172
+Little Bitterroot Lake,,-114.72,48.11,Montana,1968,,Waterton Lake ,Native,-113.9,48.98,1,kokanee,,4250,,yes,1974,,,,,1185
+McGregor Lake,,-114.83,48.03,Montana,1968,,Waterton Lake ,Native,-113.9,48.98,1,kokanee,,4250,,yes,1974,,,2,,1188
+Patterson Lake,,-120.22,41.38,California,1968,,Waterton Lake ,Native,-113.9,48.98,1,trout,,107730,,,,,,,,1192
+Whitefish Lake,,-114.38,48.45,Montana,1968,,Waterton Lake ,Native,-113.9,48.98,1,kokanee,,4250,,yes,1976,,,1,,1207
+Flathead Lake,,-114.1,47.88,Montana,1981,Date for introduction is approximate.,Whitefish Lake,Downstream drift,-114.38,48.45,1,unintentional,, ,,yes,1984,,,1,The effects of mysis in Flathead Lake have become one of the most infamous ,1208
