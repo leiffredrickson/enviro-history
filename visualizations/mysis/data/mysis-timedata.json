@@ -5,13 +5,13 @@ timedata = {
           "text": "<h2>Between 1949 and 1980, fisheries scientists and managers introduced tiny mysis shrimp into hundreds of lakes in the hopes of increasing food for trout and salmon fisheries. In many cases, however, these shrimp introductions destroyed the very fisheries they were intended to help.</h2><br><p style='font-size:12px'>Background: Based on Robert Pennak, <i>Fresh Water Invertebrates</i> (1953)</p>"
         },
         "background": {
-          "url":"images/mysis-pennak-3dcrop5.1.jpg"
+          "url":"/assets/images/mysis-pennak-3dcrop5.1.jpg"
         }
     },
     "events": [
       {
         "media": {
-          "url": "images/holmquist.jpg",
+          "url": "/assets/images/holmquist.JPG",
           "caption": "The distribution of mysis as mapped by Swedish scientist Charlotte Holmquist in 1957",
           "credit": "Holmquist"
         },
@@ -23,12 +23,12 @@ timedata = {
           "text": "Mysids are small shrimp that carry their young in a pouch, hence their common name 'opposum shrimp.' Mysids that inhabited freshwater lakes in the circumpolar north were initially called <i>Mysis relicta</i> because they were considered a 'relict' species -- species with a very restricted ranges that are the remnants of former, larger populations.* <br><br><p style='font-size:12px'>* Scientists once believed that marine mysids spread onto continents during the last Ice Age via the incursion of inland seas, and the mysids were then stranded as freshwater species when inland seas retreated. In addition, scientists now classify the North American variants of <i>Mysis relicta</i> as a separate species, <i>Mysis diluviana</i>.</p>"
         },
         "background": {
-          "url":"/images/glacial-lake.jpg"
+          "url":"/assets/images/glacial-lake.JPG"
         }
       },
       {
         "media": {
-          "url": "images/ward-mysis.jpg",
+          "url": "/assets/images/ward-mysis.jpg",
           "caption": "The opossum shrimp, known by the latin names <i>Mysis relicta</i> and <i>Mysis diluviana</i>.",
           "credit": "George Whipple, <i>Fresh-Water Biology</i> (1918)"
         },
@@ -44,12 +44,12 @@ timedata = {
           "text": "Freshwater shrimp..."
         },
         "background": {
-          "url":"images/scales-wikimedia.jpg"
+          "url":"/assets/images/scales-wikimedia.jpg"
         }
       },
       {
         "media": {
-          "url": "images/okanagan-clemens-1939-survey.jpg",
+          "url": "/assets/images/okanagan-clemens-1939-survey.JPG",
           "caption": "Map of Okanagan Lake",
           "credit": "W.A. Clemens"
         },
@@ -61,7 +61,7 @@ timedata = {
           "text": "<br><b>Target: Whitefish</b><br><br>W.A. Clemens was a fisheries biologist...."
         },
         "background": {
-          "url":"images/lake-whitefish-uw-marine-images.jpeg"
+          "url":"/assets/images/lake-whitefish-uw-marine-images.jpeg"
         }
       },
 
@@ -79,13 +79,13 @@ timedata = {
           "text": "<br><b>Target: Rainbow Trout</b><br><br>In 1949, Philip Larkin, a..."
         },
         "background": {
-          "url":"images/rainbow-uw-marine-images.jpg"
+          "url":"/assets/images/rainbow-uw-marine-images.jpg"
         }
       },
 
       {
         "media": {
-          "url": "images/nilsson-1973.jpg",
+          "url": "/assets/images/nilsson-1973.JPG",
           "caption": "The distribution of mysis as mapped by Swedish scientist Charlotte Holmquist in 1957",
           "credit": "Holmquist"
         },
@@ -97,13 +97,13 @@ timedata = {
           "text": "<br><b>Target: Arctic Char, Brown Trout</b><br><br>Mysis were well-known to biologists in northern Europe..."
         },
         "background": {
-          "url":"images/char-uw-marine-images.jpeg"
+          "url":"/assets/images/char-uw-marine-images.jpeg"
         }
       },
 
       {
         "media": {
-          "url": "images/colorado-klein-1957-plant.jpg",
+          "url": "/assets/images/colorado-klein-1957-plant.JPG",
           "caption": "Fisheries biologist W.D. Klein's one-page report on mysis introductions",
           "credit": "Colorado Fish and Game"
         },
@@ -115,13 +115,13 @@ timedata = {
           "text": "<br><b>Target: Lake Trout</b><br><br>In 1951, Pennak suggested introducing mysis ..."
         },
         "background": {
-          "url":"images/lake-trout-uw-marine-images.jpg"
+          "url":"/assets/images/lake-trout-uw-marine-images.jpg"
         }
       },
 
       {
         "media": {
-          "url": "images/kootenay-sparrow-1964-successful.jpg",
+          "url": "/assets/images/kootenay-sparrow-1964-successful.JPG",
           "caption": "A male, spawning kokanee salmon",
           "credit": "U.S. Fish and Wildlife Service"
         },
@@ -133,13 +133,13 @@ timedata = {
           "text": "In 1964..."
         },
         "background": {
-          "url":"images/scales-wikimedia.jpg"
+          "url":"/assets/images/scales-wikimedia.jpg"
         }
       },
 
       {
         "media": {
-          "url": "images/shrimp-idahowilds-1968-shrimpsalad.jpg",
+          "url": "/assets/images/shrimp-idahowilds-1968-shrimpsalad.JPG",
           "caption": "A male, spawning kokanee salmon",
           "credit": "U.S. Fish and Wildlife Service"
         },
@@ -161,7 +161,7 @@ timedata = {
 
       {
         "media": {
-          "url": "images/record-caribou-1974.jpg",
+          "url": "/assets/images/record-caribou-1974.JPG",
           "caption": "An Idaho state record kokanee caught in 1974",
           "credit": "Caribou County Sun"
         },
@@ -177,13 +177,13 @@ timedata = {
           "text": "Lake Trout... Kokanee"
         },
         "background": {
-          "url":"images/scales-wikimedia.jpg"
+          "url":"/assets/images/scales-wikimedia.jpg"
         }
       },
 
       {
         "media": {
-          "url": "images/foodweb-larkin-1948.jpg",
+          "url": "/assets/images/foodweb-larkin-1948.JPG",
           "caption": "One of the first articles",
           "credit": "Richards et al."
         },
@@ -199,7 +199,7 @@ timedata = {
           "text": "Despite some early successes, several kokanee fisheries in lakes where mysis had been introduced began to decline in the 1970s. In Idaho, at Lake Pend Oreille and Priest Lake, and at Lake Tahoe, California, fisheries biologist concluded that mysis shrimp where often unavailable for kokanee, because they stayed near the bottom during the day. Moreover, the the shrimp competed with kokanee by eating other zooplankton."
         },
         "background": {
-          "url":"images/daphnias2.jpg"
+          "url":"/assets/images/daphnias2.jpg"
         }
       },
 
@@ -212,13 +212,31 @@ timedata = {
           "text": "In 1980, fisheries scientists called for a moratorium on mysis introductions. But... First discovered in Flathead Lake in 1981..."
         },
         "background": {
-          "url":"images/mysis-noaa-alt-ban2.png"
+          "url":"/assets/images/mysis-noaa-alt-ban2.png"
         }
       },
 
       {
         "media": {
-          "url": "images/flathead-map-crop.jpg",
+          "url": "/assets/images/flathead-map-crop.jpg",
+          "caption": "Flathead Lake",
+          "credit": "Leif Fredrickson"
+        },
+        "start_date": {
+          "year": "1981"
+        },
+        "text": {
+          "headline": "Flathead Lake",
+          "text": "Downstream drift..."
+        },
+        "background": {
+          "url":"/assets/images/trolling-flathead-biennial1941.JPG"
+        }
+      },
+
+      {
+        "media": {
+          "url": "/assets/images/mysis.flathead-ellis-2010-dissertation.JPG",
           "caption": "OTA Report",
           "credit": "U.S. Office of Technology Assessment"
         },
@@ -227,34 +245,16 @@ timedata = {
         },
         "text": {
           "headline": "Flathead Lake",
-          "text": "In 1980, fisheries scientists called for a moratorium on mysis introductions. But... First discovered in Flathead Lake in 1981..."
+          "text": "The effects were dramatic..."
         },
         "background": {
-          "url":"images/trolling-flathead-biennial1941.jpg"
+          "url":"/assets/images/eagle2-hathi2crop.jpg"
         }
       },
 
       {
         "media": {
-          "url": "images/mysis.flathead-ellis-2010-dissertation.jpg",
-          "caption": "OTA Report",
-          "credit": "U.S. Office of Technology Assessment"
-        },
-        "start_date": {
-          "year": "1981"
-        },
-        "text": {
-          "headline": "Flathead Lake",
-          "text": "In 1980, fisheries scientists called for a moratorium on mysis introductions. But... First discovered in Flathead Lake in 1981..."
-        },
-        "background": {
-          "url":"images/eagle2-hathi2crop.jpg"
-        }
-      },
-
-      {
-        "media": {
-          "url": "images/cover-ota-1993-nis2.jpg",
+          "url": "/assets/images/cover-ota-1993-nis2.jpg",
           "caption": "OTA Report",
           "credit": "U.S. Office of Technology Assessment"
         },
@@ -266,13 +266,13 @@ timedata = {
           "text": "In 1993, the federal Office of Technology Assessment published a prominent report on \"harmful non-indigenous species\" -- plants and animals that spread or were introduced beyond their \"native\" range and subsequently \"invaded\" their new range, causing economic or environmental harm. For example, an invasive species introduced to an ecosystem could cause effects that \"cascade throughout the system, like a line of falling dominoes.\" The key example of such an effect was the introduction of mysis shrimp into the Flathead River-Lake ecosystem, which included part of Glacier National Park. The shrimp devoured the native zooplankton. \"This decline, in turn, contributed to a drop in forage fish, ultimately driving away the areas fish predators -- including eagles, otters, coyotes and bears.\""
         },
         "background": {
-          "url":"images/scales-wikimedia.jpg"
+          "url":"/assets/images/scales-wikimedia.jpg"
         }
       },
 
       {
         "media": {
-          "url": "images/bulltrout-sign-wikimedia.jpg",
+          "url": "/assets/images/bulltrout-sign-wikimedia.jpg",
           "caption": "Sign instructing anglers not to keep bull trout",
           "credit": "U.S. Fish & Wildlife Service"
         },
@@ -284,12 +284,12 @@ timedata = {
           "text": "Threats to Native and Culturally-Important Species.. In 1998 the bull trout was listed as a threatened species."
         },
         "background": {
-          "url":"images/bulltrout-wikimedia.jpg"
+          "url":"/assets/images/bulltrout-wikimedia.jpg"
         }
       },
       {
         "media": {
-          "url": "images/lake-trout-swan-fredenberg-usfws2.jpg",
+          "url": "/assets/images/lake-trout-swan-fredenberg-usfws2.jpg",
           "caption": "The flag of the Confederated Salish Kootenai Tribes",
           "credit": "Djembayz/Wikimedia"
         },
@@ -301,7 +301,7 @@ timedata = {
           "text": "Fisheries managers have tried a number of things to counter-act the negative effects of mysis shrimp introductions... In 2014, CSKT begin controversial gill-netting..."
         },
         "background": {
-          "url":"images/cskt-flag12.jpg"
+          "url":"/assets/images/cskt-flag12.jpg"
         }
       }
 
