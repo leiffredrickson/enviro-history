@@ -12,12 +12,12 @@ layout: main
   <link title="timeline-styles" rel="stylesheet" href="styles/timeline.css">
   <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
-<!-- The following is an external stylesheet for the map,
-    and an internal stylesheet for the for some specific map styling,
-    and for styling the nav bar and timer elements.
-    The external stylesheet applies to the whole document (at the moment),
-    so if this causes problems later may have to adjust
-    (see https://stackoverflow.com/questions/28651584/how-to-include-stylesheet-file-only-for-one-div)-->
+  <!-- The following is an external stylesheet for the map,
+      and an internal stylesheet for the for some specific map styling,
+      and for styling the nav bar and timer elements.
+      The external stylesheet applies to the whole document (at the moment),
+      so if this causes problems later may have to adjust
+      (see https://stackoverflow.com/questions/28651584/how-to-include-stylesheet-file-only-for-one-div)-->
 
   <link href='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.css' rel='stylesheet' />
   <!-- External stylesheet for fullscreen plugin-->
@@ -199,19 +199,19 @@ layout: main
 
 </head>
 
-<body style="background-color:rgb(247, 249, 236)">
+<body>
 
-  <div>
+  <div style="padding-bottom:20px; padding-left:15px; background-color:rgb(247, 249, 236)">
 
-    <h1>The Mysis Crisis: How Fisheries Scientists Turned an Isolated Shrimp into an "Invasive Species"</h1>
-    <p>Leif Fredrickson | January 15, 2017 | <a href="#notes-container">Page Updates</a> | <a href="#notes-container">Cite Page</a></p>
-    <p><b>How to use this page:</b> This page is best viewed on a large screen with a Chrome or Firefox browser. Start with the <a href="#timeline-container">timeline</a> to understand how the mysis crisis unfolded. Then explore the <a href="#map-container">map</a>, which visualizes where mysis shrimp were introduced to and from, and what fish species they were intended to bolster. For sources and further reading, see the <a href="#notes-container">notes</a> section.<span><img src="images/compass.svg" style="width:15px"></span></p>
+    <br>
+    <h1>The Mysis Crisis: How Fisheries Scientists Turned an Isolated Shrimp into an "Invasive Species"</h1><br>
+    <p><b>Leif Fredrickson</b> | January 15, 2017 | <a href="#notes-container" style="font-size:75%">citation</a></p>
+    <p><b>How to use this page:</b> This page is best viewed on a large screen with a Chrome or Firefox browser. Start with the <a href="#timeline-container">timeline</a> to understand how the mysis crisis unfolded. Then explore the <a href="#map-container">map</a>, which visualizes where mysis shrimp were introduced to and from, and what fish species they were intended to bolster. For sources and further reading, see the <a href="#notes-container">notes</a> section.</p>
 
   </div>
 
-
   <div id="timeline-container" style="width:100%; padding-bottom:20px; border-style:dotted; border-width:1px; border-color:rgb(181, 201, 223); background-color:rgb(227, 230, 205)">
-    <h2> Mysis Crisis Timeline </h2>
+    <h2 style="padding-left:15px"> Mysis Crisis Timeline </h2>
 
     <div id='timeline-embed' style="width: 100%; height: 600px">
 
@@ -233,7 +233,7 @@ layout: main
     </div>
   </div>
 
-  <div style="height:40px; padding:30px 0px 50px">
+  <div style="height:40px; padding:30px 0px 70px; background-color:rgb(247, 249, 236)">
     <img src="images/compass.svg" style="width:40px; position:absolute; left:48%">
     <img src="images/compass.svg" style="width:40px; position:absolute; left:23%">
     <img src="images/compass.svg" style="width:40px; position:absolute; left:73%">
@@ -242,7 +242,7 @@ layout: main
 
   <div id='map-container' style="width:100%; padding-bottom:20px; border-style:dotted; border-width:1px; border-color:rgb(181, 201, 223); background-color:rgb(227, 230, 205)">
 
-    <h2>Mysis Crisis Map</h2>
+    <h2 style="padding-left:15px">Mysis Crisis Map</h2>
 
     <!-- Create div with map style above.
     Style "dark" renders text/foreground light on dark background (default is vice versa) -->
@@ -299,27 +299,27 @@ layout: main
 
   </div>
 
-  <div style="height:40px; padding:30px 0px 50px">
+  <div style="height:40px; padding:30px 0px 70px; background-color:rgb(247, 249, 236)">
     <img src="images/compass.svg" style="width:40px; position:absolute; left:48%">
     <img src="images/compass.svg" style="width:40px; position:absolute; left:23%">
     <img src="images/compass.svg" style="width:40px; position:absolute; left:73%">
   </div>
 
 
-  <div id="notes-container" style="width:100%; padding-bottom:20px; border-style:dotted; border-width:1px; border-color:rgb(181, 201, 223); background-color:rgb(227, 230, 205)">
+  <div id="notes-container" style="width:100%; padding-bottom:20px; padding-left:15px; border-style:dotted; border-width:1px; border-color:rgb(181, 201, 223); background-color:rgb(227, 230, 205)">
     <h1>Notes and References</h1>
-        <p><b>Updates:</b> This page was first published on January 15, 2018. The current page has not been updated.</p>
-        <p><b>Citation:</b> Leif Fredrickson, "The Mysis Crisis: How Fisheries Scientists Turned an Isolated Shrimp into an 'Invasive Species,'" January 15, 2018, <i>Enviro-History</i>.</p>
-      <h4>Key References</h4>
-      <h4>Related Links on this Website</h4>
+      <h4>Citation:</h4>
+        <p>Leif Fredrickson, "The Mysis Crisis: How Fisheries Scientists Turned an Isolated Shrimp into an 'Invasive Species,'" January 15, 2018, <i>Enviro-History</i>.</p>
+      <h4>Updates:</h4>
+          <p>This page was first published on January 15, 2018. No updates.</p>
+      <h4>Related Links on this Website:</h4>
         <p>Leif Fredrickson, "Animals and Plants on the Move through Time," <i>Enviro-History</i>.
-      <h4>Other Reading and Exploration</h4>
-      <h4>Image References</h4>
+      <h4>Image References:</h4>
         <p>
-          George Whipple, <i>Fresh Water Biology</i> (Wiley, 1918), 844. Available at <a href=https://archive.org/details/in.ernet.dli.2015.7374>Internet Archive<a>. Image credit: "After Smith" [Frank Smith].
+          George Whipple, <i>Fresh Water Biology</i> (Wiley, 1918), 844. Available at <a href=https://archive.org/details/in.ernet.dli.2015.7374>Internet Archive</a>. Image credit: "After Smith" [Frank Smith].
           <br>W.A. Clemens, D.S. Rawson, J.L. McHugh, "A Biological Survey of Okanagan Lake, British Columbia"
           <br>Montana Game and Fish, "The Blueback Salmon of Flathead Lake," <i>Biennial Report</i>, (Montana Game and Fish, 1941-942), 30. Available at <a href=https://archive.org/details/biennialreportmo19411942montrich>Internet Archive</a>. Image credit: none listed.
-          <br>Greg Beaumont, <i>Many-storied mountains: the life of Glacier National Park,</i> (U.S. GPO, 1978), 95. Available at <a href=https://catalog.hathitrust.org/Record/007418449>HathiTrust<a>. Image credit: Greg Beaumont.
+          <br>Greg Beaumont, <i>Many-storied mountains: the life of Glacier National Park,</i> (U.S. GPO, 1978), 95. Available at <a href=https://catalog.hathitrust.org/Record/007418449>HathiTrust</a>. Image credit: Greg Beaumont.
           <br>
         </p>
 
