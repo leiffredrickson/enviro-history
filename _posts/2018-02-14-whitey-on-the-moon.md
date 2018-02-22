@@ -1,7 +1,7 @@
 ---
 title: Whitey on the Moon &#8212; Rats in the Ghetto
 featured: images/scott-heron-small-talk.jpg
-excerpt: In 90 seconds, the poet eviscerates the nation’s economic priorities, contrasting the spending required to land a man on the moon to the environmental degradation experienced in urban African-American communities. Many Americans had rejoiced in the wake of the Apollo 11 mission as a triumph of American ingenuity among the social and political revolutions of the 1960s. But in “Whitey on the Moon,” Gil Scott-Heron renders the nation’s accounts and finds the efforts to help its most marginalized citizens to be insufficient.
+excerpt: In 90 seconds, Gil Scott-Heron eviscerates the nation’s economic priorities, contrasting the spending required to land a man on the moon to the environmental degradation experienced in urban African-American communities. 
 author: Joseph M. Thompson
 authorbio: Joseph M. Thompson is a doctoral candidate in the University of Virginia’s Corcoran Department of History. His dissertation, “Sounding Southern&#58; Music, Militarism, and the Making of the Sunbelt,” uses popular music to examine the cultural impact of the military-industrial complex on the shifting meanings of race, region, and citizenship since the 1950s. <a href="https://www.twitter.com/@JM_Thompson">@JM_Thompson</a>
 layout: post
