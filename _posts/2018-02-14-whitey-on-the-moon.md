@@ -1,6 +1,7 @@
 ---
-title: Whitey on the Moon
+title: Whitey on the Moon &#8212; Rats in the Ghetto
 featured: images/scott-heron-small-talk.jpg
+excerpt: In 90 seconds, the poet eviscerates the nation’s economic priorities, contrasting the spending required to land a man on the moon to the environmental degradation experienced in urban African-American communities. Many Americans had rejoiced in the wake of the Apollo 11 mission as a triumph of American ingenuity among the social and political revolutions of the 1960s. But in “Whitey on the Moon,” Gil Scott-Heron renders the nation’s accounts and finds the efforts to help its most marginalized citizens to be insufficient.
 author: Joseph M. Thompson
 authorbio: Joseph M. Thompson is a doctoral candidate in the University of Virginia’s Corcoran Department of History. His dissertation, “Sounding Southern&#58; Music, Militarism, and the Making of the Sunbelt,” uses popular music to examine the cultural impact of the military-industrial complex on the shifting meanings of race, region, and citizenship since the 1950s. <a href="https://www.twitter.com/@JM_Thompson">@JM_Thompson</a>
 layout: post
@@ -12,6 +13,7 @@ layout: post
 
 <p>“We have a poem here,” a twenty-year-old Scott-Heron begins in a soft voice that undersells the incendiary political commentary he is about to provide. “It’s called ‘Whitey on the Moon.’ And, uh, it was inspired, it was inspired by some whiteys on the moon. So I want to give credit where credit is due.”</p>
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/goh2x_G0ct4" frameborder="0" allowfullscreen></iframe></center>
 
 <p>In the 90 seconds that follow, the poet eviscerates the nation’s economic priorities, contrasting the spending required to land a man on the moon to the environmental degradation experienced in urban African American communities. Many Americans had rejoiced in the wake of the Apollo 11 mission as a triumph of American ingenuity among the social and political revolutions of the 1960s. But in “Whitey on the Moon,” Scott-Heron renders the nation’s accounts and finds the efforts to help its most marginalized citizens to be insufficient, especially in comparison to the billions of dollars and thousands of work hours required for the Apollo mission.</p>
 
@@ -46,8 +48,6 @@ I was already giving him fifty a week.
 </i></pre></center>
 
 <p>While NYC sanitation infrastructure struggled to maintain living conditions and tenants felt the pinch of $50 a week, NASA spent $20 billion on Project Apollo alone in an unprecedented and myopic spending frenzy to place a man on the moon. And the government’s prodigious spending reached far beyond the construction of spacecraft. NASA sponsored the Sustaining University Program that funneled $100 million on graduate training for over 5,000 science and engineering students and poured $32 million into university laboratory construction. Meanwhile, private companies like Boeing, IBM, and Douglas Aircraft Corporation reaped huge financial benefits as three of the largest among the 500 private contractors hired to construct parts for the Apollo missions.</p>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/goh2x_G0ct4" frameborder="0" allowfullscreen></iframe></center>
 
 <p>When Scott-Heron disparaged “whitey” for taking a trip to the moon, he did not mean to single out Neil Armstrong or Buzz Aldrin. Instead, he directed his criticism to the economic boost delivered to white America through government funding of the space program. These expenditures paid for educations given to predominantly white engineers who bought homes in predominantly white suburbs.</p>
 

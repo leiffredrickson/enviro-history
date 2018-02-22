@@ -6,13 +6,12 @@ layout: main
 		<div class="container">
 			<section>
 				<header class="essay">
-					<img style="height:400px; width:auto" src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="">
 					<h2>{{ page.title }}</h2>
 					<h3>{{ page.author }}</h3>
 				</header>
 				{{ page.content }}
-				<p><em>{{ page.authorbio }}</em>
 				<p><em>{{ page.date | date_to_string }}</em></P>
+				<p><b>{{ page.authorbio }}</b>
 			</section>
 		</div>
 	</div>
