@@ -8,10 +8,10 @@ layout: main
 				<header class="essay">
 					<h2>{{ page.title }}</h2>
 					<h3>{{ page.author }}</h3>
+					<p><em>{{ page.date | date_to_long_string }}</em></P>
 				</header>
 				{{ page.content }}
-				<p><em>{{ page.date | date_to_string }}</em></P>
-				<p><b>{{ page.authorbio }}</b>
+				<p><b>{{ page.authorbio }}</b></p>
 			</section>
 		</div>
 	</div>

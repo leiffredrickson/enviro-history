@@ -16,6 +16,8 @@
 		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
+		<!--for page loading, see: https://www.isostech.com/blogs/software-development/quick-easy-page-loading-overlay-spinner-part-1/
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> -->
 		<noscript>
 			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.css" />
 			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
@@ -23,6 +25,25 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
+
+		<style>
+    #overlay {
+        background: #ffffff;
+        color: #666666;
+        position: fixed;
+        height: 100%;
+        width: 100%;
+        z-index: 5000;
+        top: 0;
+        left: 0;
+        float: left;
+        text-align: center;
+        padding-top: 25%;
+    }
+</style>
+<div id="overlay">
+    <img style="width:25%; height:auto" src="{{ site.baseurl }}/assets/images/compass.svg" alt="Loading" />
+</div>
 
 	{{ content }}
 		<!-- Footer -->
@@ -48,5 +69,10 @@
 				</div>
 			</div>
 
+			<script>
+			    jQuery(window).load(function(){
+			    jQuery('#overlay').fadeOut();
+			    });
+			</script>
 	</body>
 </html>
