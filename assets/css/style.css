@@ -5,11 +5,12 @@
 */
 @import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900");
+@import url("https://fonts.googleapis.com/css?family=Poiret%20One");
 
 /* Basic */
 
 	body {
-		background: #222833;
+		background: #fff;
 	}
 
 	body, input, select, textarea {
@@ -21,12 +22,15 @@
 	}
 
 	a {
-		color: black;
-		text-decoration: none;
+		color: rgb(19, 90, 108);
+		text-decoration: underline;
+		text-decoration-color: rgb(227, 255, 0);
 	}
 
 		a:hover {
+			color:rgb(0, 18, 37);
 			text-decoration: underline;
+			text-decoration-color: rgb(0, 18, 37);
 		}
 
 	strong, b {
@@ -42,15 +46,15 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: inherit;
+		color: rgb(0, 18, 37);
 		font-weight: 700;
 		line-height: 1.5em;
 		margin-bottom: 0em;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
-			text-decoration: none;
+			color: rgb(19, 90, 108);
+			text-decoration:none;
 		}
 
 		h1 {
@@ -78,13 +82,13 @@
 	}
 
 	hr {
-		border-top: solid 1px #888888;
+		border-top: solid 1px rgb(0, 18, 37);
 		border: 0;
 		margin-bottom: 1.5em;
 	}
 
 	blockquote {
-		border-left: solid 0.5em #888888;
+		border-left: solid 0.5em rgb(227, 255, 0);
 		font-style: italic;
 		padding: 1em 0 1em 2em;
 	}
@@ -102,7 +106,7 @@
 	}
 
 	header.visualization {
-		padding-bottom: 0;
+		padding-bottom: 1em;
 	}
 
 	header h2 {
@@ -244,6 +248,15 @@
 	ul {
 		margin: 0;
 		padding: 0;
+	}
+
+	ul h2{
+		color: rgb(19, 90, 108);
+	}
+
+	ul a{
+		color: rgb(19, 90, 108);
+		text-decoration:none;
 	}
 
 		ul.default {
@@ -497,12 +510,14 @@
 /* Header */
 #header4  {
 	background: #333333 url("../images/smetanka4.jpg") no-repeat;
-	background-size: auto;
+	background-size: cover;
 	color: #fff;
 	padding: 6em 0;
 	text-align: center;
-	background-position: 0% 30%;
+	background-position: 0% 65%;
 	position: relative;
+	font-family:Poiret One;
+	font-weight: bold;
 }
 
 #header3 {
@@ -511,20 +526,22 @@
 	color: #fff;
 	padding: 6em 0;
 	text-align: center;
-	background-position: center;
+	background-position: 0% 0%;
 	position: relative;
-	font-family:Copperplate Gothic;
+	font-family:Poiret One;
+	font-weight: bold;
 }
 
 #header2 {
-	background: #333333 url("../images/smetanka1.jpg") no-repeat;
+	background: #333333 url("../images/smetanka1-3.1.jpg") no-repeat;
 	background-size: cover;
 	color: #fff;
-	padding: 2em; 0;
+	padding: 6em; 0;
 	text-align: center;
-	background-position: center;
+	background-position: 0% 90%;
 	position: relative;
-	font-family:Copperplate Gothic;
+	font-family:Poiret One;
+	font-weight: bold;
 }
 
 	#header {
@@ -535,6 +552,8 @@
 		text-align: center;
 		background-position: 0% 65%;
 		position: relative;
+		font-family:Poiret One;
+		font-weight: bold;
 	}
 
 		#header:before {
@@ -563,6 +582,7 @@
 
 	#nav > ul {
 		margin: 0;
+		background: rgb(0, 18, 37);
 	}
 
 		#nav > ul > li {
@@ -583,7 +603,7 @@
 			}
 
 			#nav > ul > li:hover a {
-				color: #fff;
+				color: rgb(227, 255, 0);
 			}
 
 			#nav > ul > li.active {
@@ -636,7 +656,11 @@
 	}
 
 		#banner .major h2 {
-			font-size: 6.5em;
+			font-size: 5.5em;
+		}
+
+		#banner .major h3 {
+			font-size: 3.0em;
 		}
 
 		#banner .major .byline {
@@ -710,5 +734,12 @@
 		}
 
 		#footer a {
-			color: #afe9cd;
+			color: rgb(227, 255, 0);
+			text-decoration:none;
+		}
+
+		#footer a:hover {
+			color: rgb(227, 255, 0);
+			text-decoration:underline;
+			text-decoration-color: rgb(227, 255, 0);
 		}
