@@ -1,5 +1,5 @@
 ---
-title: Youngstown &#8212; Old Industry
+title: Youngstown (Song)
 featured: images/tom-joad.jpg
 excerpt: Youngstown exposes a fundamental feature of industrial life for many blue-collar American workers in the twentieth century&#58; the degradation of the environment was synonymous with prosperity and financial security.
 author: Jonathan D. Cohen
@@ -11,7 +11,7 @@ In 1995, amid the first stirrings of the dot-com bubble, the shimmering global e
 
 One notable song on the album is “Youngstown,” the only cut other than the title track that Springsteen continues to perform with any regularity. Musically, “Youngstown” fits The Ghost of Tom Joad’s acoustic and pared-down style, and lyrically it employs the first-person narrative form that fills much of the rest of the album. Geographically, though, the song moves from the desert borderlands of Texas and the homeless shelters of Southern California to the American industrial heartland. From the song’s opening words, the narrator locates himself in a place loaded with meaning and history: “Here in northeast Ohio / Back in 1803.” At first glance, the story of a midwestern industrial hub seems out of place on an album concerned primarily with the plight of Latino immigrants in the southwest. But closer analysis of the message of “Youngstown,” particularly with regard to the relationship of industrial capitalism and the environment, reveals how the song speaks to the same concerns that predominate on the rest of the album and endure in the United States today.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/4GaFUOQWi9A" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="450" height="300" src="https://www.youtube.com/embed/4GaFUOQWi9A"></iframe></center>
 
 By Springsteen’s account, the history of Youngstown begins with the discovery of ore in a nearby creek in the early nineteenth century. In modern times, the narrator’s familial history merges with the story of the city. After returning from World War II, the narrator’s father works in the city’s furnaces. The narrator himself, a Vietnam veteran, forges taconite, coke, and limestone in the city’s mills. The jobs that had sustained his father’s generation initially sustain his as well. His work, he proudly claims, allows him to raise his children.
 
@@ -20,3 +20,9 @@ This story of Youngstown is built around extraction, as the song exposes a funda
 However, over time, changes in the city’s landscape embody the changing fortunes of its residents. “Now,” the narrator notes from the vantage point of the 1990s, “the yard’s just scrap and rubble.” Whereas a polluted skyline had once exemplified the city’s productivity, the wasteland of discarded metals signifies the city’s abandonment and the decline of its industrial capacity. The narrator’s father knows precisely who is to blame: “Them big boys did what Hitler couldn’t do,” alleging that the corporations that had provided the city’s lifeblood for two centuries had accomplished what no foreign adversary could: destroyed Youngstown’s manufacturing sector. The scrap and rubble represent both the city’s past and its present, as refuse from the city’s productive past survives long after the jobs that had sustained the city. Youngstown is not unique. The narrator ties his city’s fate to those of working people in the Monongahela Valley, Mesabi iron forges, and Appalachian coalmines. All of these communities had staked their fortunes on their ability to extract materials from the ground and shape them into useful and valuable commodities. With the reconfiguration of the global economy in the 1970s and 1980s and the rise of white collar, service sector work, these goods—and by extension these communities—were no longer profitable. “Once I made you rich enough,” the narrator declares, speaking directly to the corporate interests, “Rich enough to forget my name.”
 
 At the song’s conclusion, the narrator claims that when he dies, he has no interest in going to heaven. Where he belongs is amid the blazing heat of metalworking, the soot, clay, and limestone that kept the city of Youngstown alive for almost two centuries. “I pray the devil comes and takes me,” the narrator bellows, “To stand in the fiery furnaces of hell.” Manufacturing had given the city and its residents their life, and it is the only work they know. For better or for worse, Springsteen’s narrator hopes to end up in the only place he feels is home.
+
+**{{ page.authorbio }}**
+
+**Author Links:** {{page.authorlinks}}
+<br>
+###### Notes

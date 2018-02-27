@@ -415,7 +415,7 @@
   margin-top: 0
 }
 
-@font-face {
+/* @font-face {
   font-family: tl-icons;
   src: url(icons/tl-icons.eot);
   src: url(icons/tl-icons.eot?#iefix) format('embedded-opentype'), url(icons/tl-icons.ttf) format('truetype'), url(icons/tl-icons.woff) format('woff'), url(icons/tl-icons.svg#tl-icons) format('svg');
@@ -433,7 +433,7 @@
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale
-}
+}*/
 
 .tl-icon-vine:after {
   content: "\e64d"
@@ -985,7 +985,7 @@ span.tl-icon-goback:hover:after {
 }
 
 .tl-timenav .tl-timenav-line:after, .tl-timenav .tl-timenav-line:before {
-  font-family: tl-icons;
+  /*font-family: tl-icons;*/
   speak: none;
   font-style: normal;
   font-weight: 400;
@@ -2114,7 +2114,7 @@ span.tl-icon-goback:hover:after {
 }
 
 .tl-slidenav-next .tl-slidenav-icon, .tl-slidenav-previous .tl-slidenav-icon {
-  font-family: tl-icons;
+  /*font-family: tl-icons;*/
   speak: none;
   font-style: normal;
   font-weight: 400;

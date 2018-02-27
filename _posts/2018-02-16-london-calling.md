@@ -1,5 +1,5 @@
 ---
-title: London Calling &#8212; To the Zombies of Death
+title: London Calling (Song)
 featured: images/london-calling.jpg
 excerpt: “The ice age is coming, the sun is zooming in / Meltdown expected, the wheat is growin' thin / Engines stop running, but I have no fear / 'Cause London is drowning, and I, I live by the river.” Environmental apocalypse looms in Joe Strummer’s vision, and for good reason.
 author: Stephen Macekura
@@ -9,9 +9,11 @@ layout: post
 
 It’s a bleak chorus. “The ice age is coming, the sun is zooming in / Meltdown expected, the wheat is growin' thin / Engines stop running, but I have no fear / 'Cause London is drowning, and I, I live by the river,” Joe Strummer sings on The Clash’s 1979 song “London Calling,” the title track to the album of the same name. Environmental apocalypse looms in Strummer’s vision, and for good reason.
 
+[Spotify Playlist](https://open.spotify.com/user/1249356224/playlist/46bIGG4jYZ6mjdGpTDwpHr)
+
 1979 was a bleak year for the global environment. In the first few months, the United States Environmental Protection Agency released startling findings from the Love Canal disaster in Niagara Falls, New York that revealed chromosomal damage and high white blood cell counts in residents who had long been exposed to the toxins around them. On March 28th, a reactor core melted down at the Three Mile Island power plant in Pennsylvania, sending radioactive gases into the atmosphere and confirming the worst fears of many concerned with the growing reliance on nuclear energy (the “nuclear error” Strummer refers to in the song). By late December, the Soviet Union had invaded Afghanistan and Cold War tensions between the superpowers ratcheted up after years of détente. The prospect of nuclear war – with its staggering human and ecological consequences – soon returned.
 
-<center><iframe style="display:block; width:100%" src="https://www.youtube.com/embed/EfK-WX2pa8c" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="450" height="300" src="https://www.youtube.com/embed/EfK-WX2pa8c"></iframe></center>
 
 “London Calling” captures the concerns of global ecological catastrophe and decline that these events portended and yokes them to larger concerns that had become apparent in the 1970s. Strummer’s lyrics bespoke the downsides of modern society and limitations of future economic growth. Oil shortages following embargoes in 1973 and 1979 and projections of resource decline from books such as *The Limits to Growth* suggested the abundance that had shaped the post-World War II era for Western Europe and the United States would come to an abrupt end. Engines across the world might “stop running.” Strummer’s reference to the “wheat growin’ thin” implied large-scale famine, which many people feared as concerns about runaway population growth pervaded the international politics of the decade, too. At the same time, the Three Mile Island incident exposed dark ironies of technologies that had helped to generate that abundance (the “nuclear error,” as Strummer calls it). They contained risks, some hidden, some all too apparent, and the trade-off for cheap energy and consumer goods was that any point some unanticipated technical or human error could lead to disaster.
 
@@ -25,6 +27,9 @@ One of Strummer’s many virtues was his ability to link highly local and indivi
 
 One need not know much about the Thames floodplain or British industrial policy to share such concerns today. Scientific data and expert knowledge about climate change has only grown stronger since the release of “London Calling.” The material situation is immeasurably worse. In 2018, political will has evolved in most places to respond to both these changes. Yet in the United States, the wealthiest and most powerful country in the world, much of the Republican Party, the sitting president, and his administration reject the scientific consensus on climate change and seek to block, curtail, or revoke policies that will mitigate future warming and help citizens here and across the world adapt to unfathomable ecological danger. In this moment, we would do well to play the song and imagine ourselves as Joe Strummer. The world is drowning, after all, and soon enough we’ll all live by the river.
 
+**{{ page.authorbio }}**
+
+<br>
 ###### Notes
 [^0474]: Antonio D’Ambrosio, “Joe Strummer, Terrorist?” [*The Nation*](https://www.thenation.com/article/joe-strummer-terrorist/), April 20, 2006.
 [^25fd]: Jim Beviglia, “Behind the Song: The Clash, ‘London Calling’,” [*American Songwriter*](https://americansongwriter.com/2015/02/behind-song-clash-london-calling/), February 15, 2015.
