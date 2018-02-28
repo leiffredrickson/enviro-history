@@ -1,17 +1,19 @@
 ---
-title: Youngstown (Song)
+title: Youngstown
 featured: images/tom-joad.jpg
 excerpt: Youngstown exposes a fundamental feature of industrial life for many blue-collar American workers in the twentieth century&#58; the degradation of the environment was synonymous with prosperity and financial security.
 author: Jonathan D. Cohen
-authorbio: Jonathan D. Cohen is a PhD Candidate in the Corcoran Department of History at the University of Virginia, where he completing a dissertation on the history of American state lotteries. He is the coeditor of a collection on gambling in the United States and is the managing editor of <i>BOSS&#58; The Biannual Online Journal of Springsteen Studies.</i>
+authorbio: Jonathan D. Cohen is a PhD Candidate in the Corcoran Department of History at the University of Virginia, where he completing a dissertation on the history of American state lotteries. He is the coeditor of a <a href="http://www.unevadapress.com/books/?isbn=9781943859603">collection</a> on gambling in the United States and is the managing editor of <i><a href="http://boss.mcgill.ca/">BOSS&#58; The Biannual Online Journal of Springsteen Studies</a></i>.
+object: Bruce Springsteen, “Youngstown,” <a href="https://www.discogs.com/Bruce-Springsteen-The-Ghost-Of-Tom-Joad/release/2686698">The Ghost of Tom Joad</a>, Columbia, CK-67484, 1995.
 layout: post
 ---
 
-In 1995, amid the first stirrings of the dot-com bubble, the shimmering global economy of NAFTA, as well as the still-fresh memories of the United States’ triumphs in the Cold War and in Iraq, Bruce Springsteen painted a bleak portrait of American life. On The Ghost of Tom Joad, Springsteen presented a scathing indictment of the “new world order” referenced in the title track. The album’s characters are railroad vagabonds, border patrol agents, criminals, and immigrants from Latin America and Vietnam, and they have all been left out of this new age of prosperity. As they try to make their way through the dark underbelly of this new global economy, these characters encounter discrimination and desperation, and only small pockets of hope persevere.
+In 1995, amid the first stirrings of the dot-com bubble, the shimmering global economy of NAFTA, as well as the still-fresh memories of the United States’ triumphs in the Cold War and in Iraq, Bruce Springsteen painted a bleak portrait of American life. On *The Ghost of Tom Joad*, Springsteen presented a scathing indictment of the “new world order” referenced in the title track. The album’s characters are railroad vagabonds, border patrol agents, criminals, and immigrants from Latin America and Vietnam, and they have all been left out of this new age of prosperity. As they try to make their way through the dark underbelly of this new global economy, these characters encounter discrimination and desperation, and only small pockets of hope persevere.
 
-One notable song on the album is “Youngstown,” the only cut other than the title track that Springsteen continues to perform with any regularity. Musically, “Youngstown” fits The Ghost of Tom Joad’s acoustic and pared-down style, and lyrically it employs the first-person narrative form that fills much of the rest of the album. Geographically, though, the song moves from the desert borderlands of Texas and the homeless shelters of Southern California to the American industrial heartland. From the song’s opening words, the narrator locates himself in a place loaded with meaning and history: “Here in northeast Ohio / Back in 1803.” At first glance, the story of a midwestern industrial hub seems out of place on an album concerned primarily with the plight of Latino immigrants in the southwest. But closer analysis of the message of “Youngstown,” particularly with regard to the relationship of industrial capitalism and the environment, reveals how the song speaks to the same concerns that predominate on the rest of the album and endure in the United States today.
+One notable song on the album is “Youngstown,” the only cut other than the title track that Springsteen continues to perform with any regularity. Musically, “Youngstown” fits *The Ghost of Tom Joad*’s acoustic and pared-down style, and lyrically it employs the first-person narrative form that fills much of the rest of the album. Geographically, though, the song moves from the desert borderlands of Texas and the homeless shelters of Southern California to the American industrial heartland. From the song’s opening words, the narrator locates himself in a place loaded with meaning and history: “Here in northeast Ohio / Back in 1803.” At first glance, the story of a Midwestern industrial hub seems out of place on an album concerned primarily with the plight of Latino immigrants in the southwest. But closer analysis of the message of “Youngstown,” particularly with regard to the relationship of industrial capitalism and the environment, reveals how the song speaks to the same concerns that predominate on the rest of the album and endure in the United States today.
 
-<center><iframe width="450" height="300" src="https://www.youtube.com/embed/4GaFUOQWi9A"></iframe></center>
+>**{{ page.object }}**
+><iframe width="450" height="300" src="https://www.youtube.com/embed/4GaFUOQWi9A"></iframe>
 
 By Springsteen’s account, the history of Youngstown begins with the discovery of ore in a nearby creek in the early nineteenth century. In modern times, the narrator’s familial history merges with the story of the city. After returning from World War II, the narrator’s father works in the city’s furnaces. The narrator himself, a Vietnam veteran, forges taconite, coke, and limestone in the city’s mills. The jobs that had sustained his father’s generation initially sustain his as well. His work, he proudly claims, allows him to raise his children.
 
@@ -22,7 +24,3 @@ However, over time, changes in the city’s landscape embody the changing fortun
 At the song’s conclusion, the narrator claims that when he dies, he has no interest in going to heaven. Where he belongs is amid the blazing heat of metalworking, the soot, clay, and limestone that kept the city of Youngstown alive for almost two centuries. “I pray the devil comes and takes me,” the narrator bellows, “To stand in the fiery furnaces of hell.” Manufacturing had given the city and its residents their life, and it is the only work they know. For better or for worse, Springsteen’s narrator hopes to end up in the only place he feels is home.
 
 **{{ page.authorbio }}**
-
-**Author Links:** {{page.authorlinks}}
-<br>
-###### Notes
