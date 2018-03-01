@@ -82,9 +82,7 @@
 	}
 
 	hr {
-		border-top: solid 1px rgb(0, 18, 37);
-		border: 0;
-		margin-bottom: 1.5em;
+		border-color:rgb(0, 18, 37);
 	}
 
 	blockquote {
