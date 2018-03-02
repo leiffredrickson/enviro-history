@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Enviro-History
 email:
-description: Enviro-history explores the environment and history through maps, visualizations, essays, music, art and other media.
+description: Enviro-History.com explores the environment and history through maps, visualizations, essays, music, art and other media.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Enviro-History.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
