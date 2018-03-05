@@ -15,7 +15,7 @@ But Scott-Heron placed what is arguably his most pointed piece of political scru
 “We have a poem here,” a twenty-year-old Scott-Heron began in a soft voice that undersold the incendiary political commentary he was about to provide. “It’s called ‘Whitey on the Moon.’ And, uh, it was inspired, it was inspired by some whiteys on the moon. So I want to give credit where credit is due.”
 
 >**{{ page.object }}**
-><iframe width="450" height="300" src="https://www.youtube.com/embed/goh2x_G0ct4" ></iframe>
+><iframe width="450" height="300" src="https://www.youtube.com/embed/goh2x_G0ct4" frameborder="0" allowfullscreen></iframe>
 
 The poet used the 90 seconds that followed to eviscerate the nation’s economic priorities, contrasting the spending required to land a man on the moon to the environmental degradation experienced in urban African American communities. Many Americans had rejoiced in the wake of the Apollo 11 mission as a triumph of American ingenuity among the social and political revolutions of the 1960s. But in “Whitey on the Moon,” Scott-Heron rendered the nation’s accounts and found the efforts to help its most marginalized citizens to be insufficient, especially in comparison to the billions of dollars and thousands of work hours required for the Apollo mission.
 
