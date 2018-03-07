@@ -592,7 +592,7 @@
 		}
 
 			#nav > ul > li a {
-				color: rgb(227, 255, 0);
+				color: #fff;
 				text-decoration: none;
 				font-size: 1.2em;
 				opacity:0.8;
@@ -603,8 +603,7 @@
 			}
 
 			#nav > ul > li:hover a {
-				text-decoration:underline;
-				opacity:1.0;
+				color:rgb(227, 255, 0);
 			}
 
 			#nav > ul > li.active {
