@@ -581,6 +581,7 @@
 	#nav > ul {
 		margin: 0;
 		background: rgb(0, 18, 37);
+		opacity:0.9;
 	}
 
 		#nav > ul > li {
@@ -591,9 +592,10 @@
 		}
 
 			#nav > ul > li a {
-				color: #FFF;
+				color: rgb(227, 255, 0);
 				text-decoration: none;
 				font-size: 1.2em;
+				opacity:0.8;
 			}
 
 			#nav > ul > li:first-child {
@@ -601,11 +603,12 @@
 			}
 
 			#nav > ul > li:hover a {
-				color: rgb(227, 255, 0);
+				text-decoration:underline;
+				opacity:1.0;
 			}
 
 			#nav > ul > li.active {
-				background: #3ac984;
+				background: rgb(227, 255, 0);
 			}
 
 				#nav > ul > li.active a {
