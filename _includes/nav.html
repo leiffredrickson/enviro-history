@@ -2,9 +2,9 @@
 	<nav id="nav">
 		<ul>
 			{% assign current = page.url | downcase | split: '/' %}
-			<li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
+			<li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/index">Home</a></li>
 			<li {% if current[1] == 'visualizations' %}class='current'{% endif %}><a href="{{ site.baseurl }}/visualizations">Visualizations</a></li>
-			<li {% if current[1] == 'writing' %}class='current'{% endif %}><a href="{{ site.baseurl }}/writing">Writings</a></li>
-			<li {% if current[1] == 'about.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/about.html">About</a></li>
+			<li {% if current[1] == 'writing' %}class='current'{% endif %}><a href="{{ site.baseurl }}/writings">Writings</a></li>
+			<li {% if current[1] == 'about.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/about">About</a></li>
 		</ul>
 	</nav>
