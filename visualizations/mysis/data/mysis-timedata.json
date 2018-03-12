@@ -1,8 +1,8 @@
 timedata = {
     "title": {
         "text": {
-          "headline": "The Mysis Crisis Unfolds",
-          "text": "<h2>Between 1949 and 1980, fisheries scientists and managers introduced tiny mysis shrimp into hundreds of lakes in the hopes of increasing food for trout and salmon fisheries. In many cases, however, these shrimp introductions destroyed the very fisheries they were intended to help.</h2><br><p style='font-size:12px'>Background: Based on Robert Pennak, <i>Fresh Water Invertebrates</i> (1953)</p>"
+          "headline": "The Mysis Crisis",
+          "text": "<h4>From 1949 to the 1980s, fisheries managers introduced tiny mysis shrimp into hundreds of freshwater lakes in North America, hoping to bolster sport fisheries. Instead, they often destroyed them.</h4><br><p style='font-size:12px'>Background: Based on Pennak (1953)</p>"
         },
         "background": {
           "url":"/assets/images/mysis-pennak-3dcrop5.1.jpg"
@@ -12,25 +12,25 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/holmquist.JPG",
-          "caption": "The distribution of mysis as mapped by Swedish scientist Charlotte Holmquist in 1957",
-          "credit": "Holmquist"
+          "caption": "The distribution of <i>Mysis relicta</i> as mapped in 1959.",
+          "credit": "Holmquist (1959)"
         },
         "start_date": {
           "year": "1862"
         },
         "text": {
           "headline": "Discovering <i>Mysis relicta</i>",
-          "text": "Mysids are small shrimp that carry their young in a pouch, hence their common name 'opposum shrimp.' Mysids that inhabited freshwater lakes in the circumpolar north were initially called <i>Mysis relicta</i> because they were considered a 'relict' species -- species with a very restricted ranges that are the remnants of former, larger populations.* <br><br><p style='font-size:12px'>* Scientists once believed that marine mysids spread onto continents during the last Ice Age via the incursion of inland seas, and the mysids were then stranded as freshwater species when inland seas retreated. In addition, scientists now classify the North American variants of <i>Mysis relicta</i> as a separate species, <i>Mysis diluviana</i>.</p>"
+          "text": "Mysids are small shrimp that carry their young in a pouch, hence their common name 'opposum shrimp.' In 1862, scientists named a species of mysid that inhabited freshwater lakes in the circumpolar north <i>Mysis relicta</i> because they were considered a 'relict' species -- isolated species that are the remnants of former, larger populations. The evolutionary origins of the species are still unclear, but scientists have since re-named the North American species <i>Mysis diluviana</i>."
         },
         "background": {
-          "url":"/assets/images/glacial-lake.JPG"
+          "url":"/assets/images/scales-wikimedia.jpg"
         }
       },
       {
         "media": {
           "url": "/assets/images/ward-mysis.jpg",
-          "caption": "The opossum shrimp, known by the latin names <i>Mysis relicta</i> and <i>Mysis diluviana</i>.",
-          "credit": "George Whipple, <i>Fresh-Water Biology</i> (1918)"
+          "caption": "Mysid shrimp are bout 3/4 inch or smaller in size.",
+          "credit": "Whipple (1918)"
         },
         "start_date": {
           "year": "1890"
