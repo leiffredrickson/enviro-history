@@ -1,7 +1,7 @@
 ---
 title: Planet Rock&#58; Environmental Histories of Songs
 featured: images/rca-toxic-holocaust.jpg
-excerpt: From the redwood forests to the Gulf stream waters. From home on the range to Standing Rock. From the ghetto to the moon, and from three miles beneath the earth to the skies of L.A. From before the deluge, when the land belonged to God, to April 2031 and the year 2525 – our environments have shaped our music, and we’ve used music to celebrate, scorn, commune with, and protest our environments. We may live on a hungry planet, a poison planet, but we also live on planet rock
+excerpt: From the redwood forests to the Gulf stream waters. From home on the range to Standing Rock. From the ghetto to the moon, and from three miles beneath the earth to the skies of L.A. From before the deluge, when the land belonged to God, to April 2031 and the year 2525 – our environments have shaped our music, and we’ve used music to celebrate, scorn, commune with, and protest our environments. We may live on a hungry planet, a poison planet, but we also live on planet rock.
 author: Leif Fredrickson
 authorbio: Leif Fredrickson is a historian and creator of <i>Enviro-History</i>.
 layout: post
