@@ -20,7 +20,7 @@ timedata = {
         },
         "text": {
           "headline": "Discovering <i>Mysis relicta</i>",
-          "text": "In 1862, scientists gave a species of mysid shrimp that inhabited northern freshwater lakes the scientific name <i>Mysis relicta</i>. The name reflected the scientists' belief that this was a 'relict' species -- an isolated, remnant population of former, larger populations. The evolutionary origins of the species are still unclear, and scientists have since re-named the North American variety <i>Mysis diluviana</i>."
+          "text": "In 1862, scientists gave a species of mysid shrimp that inhabited northern freshwater lakes the scientific name <i>Mysis relicta</i>. The name reflected the scientists' belief that this was a 'relict' species -- an isolated remnant of a formerly more widespread species. The evolutionary origins of <i>Mysis relicta</i> are still unclear, and scientists have since re-named the North American variety <i>Mysis diluviana</i>. But there is no question it is an isolated organism."
         },
         "background": {
           "url":"/assets/images/scales-wikimedia.jpg"
@@ -30,7 +30,7 @@ timedata = {
         "media": {
           "url": "/assets/images/ward-mysis.jpg",
           "caption": "Mysids are small shrimp, about 1/2 inch in size, that carry their young in a pouch, hence their common name 'opposum shrimp.'",
-          "credit": "Whipple (1918)"
+          "credit": "U.S. Bureau of Fisheries (1921) after Whipple (1918)"
         },
         "start_date": {
           "year": "1890"
@@ -40,8 +40,8 @@ timedata = {
         },
         "display_date": "Late 1800s to Late 1900s",
         "text": {
-          "headline": "Fish Food Problem",
-          "text": "Freshwater shrimp..."
+          "headline": "Self-Reproducing Fish Food",
+          "text": "Around the turn-of-the-century, U.S. and Canadian governments sought to improve fisheries by introducing new fish species, planting fish from hatcheries, or improving the food for fish in lakes. Especially in relatively remote, cold-water lakes, fisheries managers hoped that the introduction of small, self-reproducing organisms, such as crustaceans, could provide a cheap, everlasting source of food for fisheries. A 1921 U.S. Bureau of Fisheries publication dismissed <i>Mysis relicta</i> as a good candidate for fish food, however."
         },
         "background": {
           "url":"/assets/images/scales-wikimedia.jpg"
@@ -58,7 +58,7 @@ timedata = {
         },
         "text": {
           "headline": "Genesis of an Idea",
-          "text": "<br><b>Target: Whitefish</b><br><br>W.A. Clemens was a fisheries biologist...."
+          "text": "<br><b>Target: Whitefish</b><br><br>In 1939, however, Canadian fisheries biologist W.A. Clemens suggested "
         },
         "background": {
           "url":"/assets/images/lake-whitefish-uw-marine-images.jpeg"
