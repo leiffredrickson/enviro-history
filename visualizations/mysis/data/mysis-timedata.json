@@ -50,15 +50,15 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/okanagan-clemens-1939-survey.JPG",
-          "caption": "Map of Okanagan Lake",
-          "credit": "W.A. Clemens"
+          "caption": "Map of Okanagan Lake, BC, from Clemens. Background: Lake Whitefish. From Forest, Fish and Game Commission (1896).",
+          "credit": "W.A. Clemens (1939)."
         },
         "start_date": {
           "year": "1939"
         },
         "text": {
           "headline": "Genesis of an Idea",
-          "text": "<br><b>Target: Whitefish</b><br><br>In 1939, however, Canadian fisheries biologist W.A. Clemens suggested "
+          "text": "<br><b>Target: Lake Whitefish (<i>Coregonus clupeaformis</i>)</b><br><br>In 1939, however, Canadian fisheries scientist W.A. Clemens suggested the introduction of mysid shrimp into Lake Okanagan, British Columbia, for lake whitefish, a commercially important fish. Whitefish, were known to feed on mysids, but there were no mysids in Okanagan. Clemens noted that kokanee salmon and rainbow trout would not benefit from mysids, since they did not live on the lake bottom like whitefish and mysid shrimp."
         },
         "background": {
           "url":"/assets/images/lake-whitefish-uw-marine-images.jpeg"
@@ -67,16 +67,16 @@ timedata = {
 
       {
         "media": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FMIB_49017_Landing_a_20-pound_trout_on_Kootenay_Lake%2C_near_Laslo%2C_in_July%2C_1907_Season%2C_May_to_November.jpeg/1280px-FMIB_49017_Landing_a_20-pound_trout_on_Kootenay_Lake%2C_near_Laslo%2C_in_July%2C_1907_Season%2C_May_to_November.jpeg",
-          "caption": "Sportfisherman catching a trout at Kootenay Lake",
-          "credit": "John Babcock <i>Game Fishes of British Columbia</i> (1908)/Wikimedia"
+          "url": "/assets/images/larkin-ubc.jpg",
+          "caption": "Peter Larkin, a world-famous fisheries scientist, receiving a prize in 1985. Background: Rainbow Trout. From Forest, Fish and Game Commission (1896).",
+          "credit": "University of British Columbia Archives (1985)."
         },
         "start_date": {
           "year": "1949"
         },
         "text": {
           "headline": "First Introduction: Kootenay Lake, BC",
-          "text": "<br><b>Target: Rainbow Trout</b><br><br>In 1949, Philip Larkin, a..."
+          "text": "<br><b>Target: Rainbow Trout (<i>Oncorhynchus mykiss</i>)</b><br><br>British Columbia never carried out Clemens' plan, but in 1949 another fisheries scientist, Peter Larkin, "
         },
         "background": {
           "url":"/assets/images/rainbow-uw-marine-images.jpg"
@@ -86,15 +86,15 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/nilsson-1973.JPG",
-          "caption": "The distribution of mysis as mapped by Swedish scientist Charlotte Holmquist in 1957",
-          "credit": "Holmquist"
+          "caption": "Swedish study showing the slowed growth of trout after damming. Background: Arctic Char. From Forest, Fish and Game Commission (1896).",
+          "credit": "Nilsson (1973)."
         },
         "start_date": {
           "year": "1954"
         },
         "text": {
           "headline": "European Introductions",
-          "text": "<br><b>Target: Arctic Char, Brown Trout</b><br><br>Mysis were well-known to biologists in northern Europe..."
+          "text": "<br><b>Target: Arctic Char (<i>Salvelinus alpinus</i>), Brown Trout (<i>Salmo trutta</i>)</b><br><br>Mysis were well-known to biologists in northern Europe..."
         },
         "background": {
           "url":"/assets/images/char-uw-marine-images.jpeg"
@@ -104,15 +104,15 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/colorado-klein-1957-plant.JPG",
-          "caption": "Fisheries biologist W.D. Klein's one-page report on mysis introductions",
-          "credit": "Colorado Fish and Game"
+          "caption": "Fisheries biologist W.D. Klein's one-page report on mysis introductions. Background: Lake Trout. From Forest, Fish and Game Commission (1896).",
+          "credit": "Colorado Fish and Game (1957)."
         },
         "start_date": {
           "year": "1957"
         },
         "text": {
           "headline": "First U.S. Introduction: Twin Lakes, CO",
-          "text": "<br><b>Target: Lake Trout</b><br><br>In 1951, Pennak suggested introducing mysis ..."
+          "text": "<br><b>Target: Lake Trout (<i>Salvelinus namaycush</i>)</b><br><br>In 1951, Pennak suggested introducing mysis ..."
         },
         "background": {
           "url":"/assets/images/lake-trout-uw-marine-images.jpg"
