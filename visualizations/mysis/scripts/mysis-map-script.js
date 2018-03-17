@@ -11,7 +11,7 @@
     For other mapbox map IDs, see https://www.mapbox.com/api-documentation/#maps.
     "setView" is a method for setting map view (center and zoom).
     "setView" method is here https://www.mapbox.com/mapbox.js/api/v3.1.1/all/#map-set-methods.*/
-    var map = L.mapbox.map('map', 'mapbox.dark')
+    var map = L.mapbox.map('map', 'mapbox.dark', {minZoom:4})
       .setView([42.5, -92], 5);
 
       map.addControl(new L.Control.Fullscreen())

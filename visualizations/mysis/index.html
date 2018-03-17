@@ -19,6 +19,7 @@ layout: page
   <link title="timeline-styles" rel="stylesheet" href="styles/timeline.css">
   <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
+
   <!-- The following is an external stylesheet for the map,
       and an internal stylesheet for the for some specific map styling,
       and for styling the nav bar and timer elements.
@@ -242,12 +243,24 @@ layout: page
   <div id='map-container' style="width:100%; padding-bottom:20px">
 
     <h2>Mysis Map</h2>
-    <p style="font-size:16px; line-height:20px; display:block; padding-left:5px"><b>How to use the map:</b> Click arrows...</p>
+    <p style="font-size:16px; line-height:20px; display:block; padding-left:5px"><b>How to use the map:</b> This map shows</p>
+
+    <button onclick="reset()">RESET MAP</button>
+    <script>
+    function reset() {
+        map.setView([42.5, -92], 5);
+        featureLayer.clearLayers();
+        clearInterval(timer);
+        document.getElementById("timer_container").innerHTML = 'Years: 1945'
+      };
+    </script>
 
 
     <!-- Create div with map style above.
     Style "dark" renders text/foreground light on dark background (default is vice versa) -->
     <div id='map' class='dark custom-popup' style="height:55em; width:auto">
+
+
 
       <!-- Create navigation bar with menu style above-->
       <nav id='menu-ui' class='menu-ui'>
@@ -266,6 +279,7 @@ layout: page
       <nav id='timer' style="position:relative; left:25%; top:77%; opacity: 0.8; border:1px solid rgb(227, 255, 0); background-color:rgb(0, 18, 37); width:230px" class='menu-ui'>
         <p href='#' id="timer_container" style="font-size:25px; color:rgb(227, 255, 0); border-bottom:none">Year: 1945</p>
       </nav>
+
 
       <!--The following are Mapbox.js libraries, which are extensions of Leaflet.js libraries.
       Mapbox now has a new Javascript library, Mapbox GL JS, that renders maps using vector tils, Javascript and Web GL.
