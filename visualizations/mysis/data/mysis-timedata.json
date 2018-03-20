@@ -19,8 +19,8 @@ timedata = {
           "year": "1862"
         },
         "text": {
-          "headline": "Discovering <i>Mysis relicta</i>",
-          "text": "In 1862, scientists gave a species of mysid shrimp that inhabited northern freshwater lakes the scientific name <i>Mysis relicta</i>. The name reflected the scientists' belief that this was a 'relict' species -- an isolated remnant of a formerly more widespread species. The evolutionary origins of <i>Mysis relicta</i> are still unclear, and scientists have since re-named the North American variety <i>Mysis diluviana</i>. In North America, <i>Mysis diluviana</i> are native to the Great Lakes, and some lakes in central and eastern Canada, and north-central and north-eastern states like Minnesota, Wisconsin, Vermont, New York, and Maine."
+          "headline": "Identifying 'Relict' Mysids",
+          "text": "In 1862, scientists gave a species of mysid shrimp that inhabited northern freshwater lakes the scientific name <i>Mysis relicta</i>. The name reflected the scientists' belief that this was a 'relict' species -- an isolated remnant of a formerly more widespread species. In North America, these mysids are native to the Great Lakes, and some lakes in central and eastern Canada, and north-central and north-eastern states like Minnesota, Wisconsin, Vermont, New York, and Maine. (The evolutionary origins of <i>Mysis relicta</i> are still unclear, and scientists have since re-named the North American variety <i>Mysis diluviana</i>)."
         },
         "background": {
           "url":"/assets/images/scales-wikimedia.jpg"
@@ -40,7 +40,7 @@ timedata = {
         },
         "display_date": "Late 1800s to Late 1900s",
         "text": {
-          "headline": "Self-Reproducing Fish Food",
+          "headline": "Fish Food Problems",
           "text": "Around the turn-of-the-century, U.S. and Canadian governments sought to improve fisheries by introducing new fish species, planting fish from hatcheries, or improving the food for fish in lakes. Especially in relatively remote, cold-water lakes, fisheries managers hoped that the introduction of small, self-reproducing organisms, such as crustaceans, could provide a cheap, everlasting source of food for fisheries. A 1921 U.S. Bureau of Fisheries publication dismissed <i>Mysis relicta</i> as a good candidate for fish food, however."
         },
         "background": {
@@ -50,14 +50,14 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/okanagan-clemens-1939-survey.JPG",
-          "caption": "Map of Okanagan Lake, BC, from Clemens. Background: Lake Whitefish. From Forest, Fish and Game Commission (1896).",
+          "caption": "Map of Okanagan Lake, BC, from Clemens. Background: Lake whitefish. From Forest, Fish and Game Commission (1896).",
           "credit": "W.A. Clemens (1939)"
         },
         "start_date": {
           "year": "1939"
         },
         "text": {
-          "headline": "Genesis of an Idea",
+          "headline": "First Suggestion of Transplant",
           "text": "<br><b>Target: Lake Whitefish (<i>Coregonus clupeaformis</i>)</b><br><br>In 1939, Canadian fisheries scientist W.A. Clemens suggested the introduction of mysid shrimp into Lake Okanagan, British Columbia, for lake whitefish, a commercially important fish. Whitefish, were known to feed on mysids, but there were no mysids in Okanagan. Clemens noted that kokanee salmon and rainbow trout would not benefit from mysids, since they did not live on the lake bottom like whitefish and mysid shrimp."
         },
         "background": {
@@ -68,7 +68,7 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/larkin-ubc.jpg",
-          "caption": "Peter Larkin, a world-famous fisheries scientist, receiving a prize in 1985. Background: Rainbow Trout. From Forest, Fish and Game Commission (1896).",
+          "caption": "Peter Larkin, a renowned fisheries scientist, receiving a prize in 1985. Background: Rainbow trout. From Forest, Fish and Game Commission (1896).",
           "credit": "University of British Columbia Archives (1985)"
         },
         "start_date": {
@@ -86,14 +86,14 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/nilsson-1973.JPG",
-          "caption": "Swedish study showing the slowed growth of trout after damming. Background: Arctic Char. From Forest, Fish and Game Commission (1896).",
+          "caption": "Swedish study showing the slowed growth of trout after damming. Background: Arctic char. From Forest, Fish and Game Commission (1896).",
           "credit": "Nilsson (1973)"
         },
         "start_date": {
           "year": "1954"
         },
         "text": {
-          "headline": "European Introductions",
+          "headline": "Swedish Introductions Begin",
           "text": "<br><b>Target: Arctic Char (<i>Salvelinus alpinus</i>), Brown Trout (<i>Salmo trutta</i>)</b><br><br>Mysids were well-known to biologists in Sweden, as were the problems with trying to enhance fisheries in cold-water lakes. Rampant dam building in Sweden in the mid-twentieth century exacerbated these fisheries problems. Swedish fisheries managers discussed mysid introductions in the 1940s, and completed the first introduction in 1954. Mysid introductions targeted bottom-feeding Arctic char. But they also targeted Brown trout, which don't feed on the bottom. Brown trout do feed at night, however, and mysid shrimp were known to congregate near the surface at night."
         },
         "background": {
@@ -104,7 +104,7 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/colorado-klein-1957-plant.JPG",
-          "caption": "Fisheries biologist W.D. Klein's one-page report on mysis introductions. Background: Lake Trout. From Forest, Fish and Game Commission (1896).",
+          "caption": "Fisheries biologist W.D. Klein's one-page report on mysis introductions. Background: Lake trout. From Forest, Fish and Game Commission (1896).",
           "credit": "Colorado Fish and Game (1957)"
         },
         "start_date": {
@@ -121,16 +121,37 @@ timedata = {
 
       {
         "media": {
+          "url": "/assets/images/mysis.trawl-cafg-1965-outdoors.jpg",
+          "caption": "A trawl used to collect mysids from the bottom of a lake.",
+          "credit": "California Fish and Game (1965)"
+        },
+        "start_date": {
+          "year": "1961"
+        },
+        "end_date": {
+          "year": "1964"
+        },
+        "text": {
+          "headline": "Other Early U.S. Introductions",
+          "text": "In 1961, Minnesota fisheries managers transplanted mysids within the state, from Trout Lake, where they were native, to Grindstone Lake, for lake trout. California introduced mysids for lake trout in 1963, transplanting them from where they naturally occurred in Waterton Lake, Saskatchewan and Green Lake, Wisconsin. Around the same time, fisheries managers in Utah, New York and Wisconsin also considered mysid transplants, probably for lake trout."
+        },
+        "background": {
+          "url":"/assets/images/scales-wikimedia.jpg"
+        }
+      },
+
+      {
+        "media": {
           "url": "/assets/images/kootenay-sparrow-1964-successful.JPG",
-          "caption": "Idaho Fish and Game officials transplanting kokanee. Background: Kokanee salmon (<i>Oncorhynchus nerka)</i>). Timothy Knepp (2001).",
-          "credit": "Idaho Fish and Game (1968)"
+          "caption": "Kootenay Lake, British Columbia.",
+          "credit": "Sparrow, Larkin and Rutherglen (1964)"
         },
         "start_date": {
           "year": "1964"
         },
         "text": {
-          "headline": "An Unexpected Effect",
-          "text": "In 1964..."
+          "headline": "Kokanee Surprise",
+          "text": "In 1964, Peter Larkin co-published a paper touting the 'successful' introduction of mysids to Kootenay Lake, by which he meant that the transplanted mysids had survived and reproduced. The paper also noted the mysids seemed to have a 'marked effect' on the kokanee salmon population. Kootenay Lake had previously been famous as a rainbow trout fishery, and trout had been the original target of Larkin's transplant. But by the mid-1960s, sportfishers were catching hundreds of times as many kokanee from the lake as they had in the 1950s. And the kokanee were larger. This was especially true in the West Arm of the lake."
         },
         "background": {
           "url":"/assets/images/scales-wikimedia.jpg"
@@ -140,8 +161,8 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/shrimp-idahowilds-1968-shrimpsalad.JPG",
-          "caption": "A male, spawning kokanee salmon",
-          "credit": "U.S. Fish and Wildlife Service"
+          "caption": "Idaho Fish and Game officials transplanting mysids. Background: Kokanee salmon. Timothy Knepp (2001).",
+          "credit": "Idaho Fish and Game (1967)"
         },
         "start_date": {
           "year": "1965"
@@ -152,7 +173,7 @@ timedata = {
         "display_date": "1965-1975",
         "text": {
           "headline": "Kokanee Fever",
-          "text": "<br><b>Target: Kokanee Salmon</b><br><br>When Clemens made his suggestion in 1939..."
+          "text": "<br><b>Target: Kokanee Salmon</b><br><br>The mysid effect on kokanee was a surprise, but a welcome one for Kootenay Lake fisheries managers. But reports of the effect of mysids on kokanee in Kootenay Lake spread rapidly to other fisheries managers. In 1965, Idaho became the first state to introduce mysids primarily for kokanee. Many other states and provinces followed. Lake Okanagan finally got its mysid transplant in 1966, but for kokanee, not whitefish, as Clemens had suggested. In 1968, managers introduced mysids to a number of lakes in Montana for kokanee. And in California, fisheries managers began justifying mysid introductions in terms of their effect on kokanee."
         },
         "background": {
           "url":"https://upload.wikimedia.org/wikipedia/commons/6/63/Oncorhynchus_nerka.jpg"
@@ -162,7 +183,7 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/record-caribou-1974.JPG",
-          "caption": "An Idaho state record kokanee caught in 1974",
+          "caption": "An Idaho state record kokanee caught in Priest Lake in 1974.",
           "credit": "Caribou County Sun"
         },
         "start_date": {
@@ -173,8 +194,8 @@ timedata = {
         },
         "display_date": "1965-1975",
         "text": {
-          "headline": "Successes",
-          "text": "Lake Trout... Kokanee"
+          "headline": "Successes with Transplants",
+          "text": "Mysids populations took years to become established, but when they did, they often showed some initially successes. Lake trout seemed to eat and grow bigger on them in some cases. But kokanee fisheries were the big success story. Other lakes that had once been known for trout became popular kokanee fisheries. Sportfishers smashed state records for kokanee, and the world record for kokanee was broken at Kootenay Lake in 1975 and then at Priest Lake, the site of mysid introductions, in 1975."
         },
         "background": {
           "url":"/assets/images/scales-wikimedia.jpg"
@@ -184,8 +205,8 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/foodweb-larkin-1948.JPG",
-          "caption": "One of the first articles",
-          "credit": "Richards et al."
+          "caption": "An early article by Larkin showing he knew about mysid predation on zooplankton. Background: <Daphnia>, a type of plankton mysids competed with kokanee for.",
+          "credit": "Larkin (1948)"
         },
         "start_date": {
           "year": "1970"
@@ -195,8 +216,8 @@ timedata = {
         },
         "display_date": "1970s-1980s",
         "text": {
-          "headline": "Problems",
-          "text": "Despite some early successes, several kokanee fisheries in lakes where mysis had been introduced began to decline in the 1970s. In Idaho, at Lake Pend Oreille and Priest Lake, and at Lake Tahoe, California, fisheries biologist concluded that mysis shrimp where often unavailable for kokanee, because they stayed near the bottom during the day. Moreover, the the shrimp competed with kokanee by eating other zooplankton."
+          "headline": "Problems with Transplants",
+          "text": "Despite early successes, many of these kokanee fisheries declined in the 1970s. In Idaho lakes at Lake Tahoe, California, fisheries biologist concluded that mysids where unavailable for kokanee, because kokanee fed near the surface during the day, but mysids stayed on the bottom at the time, only coming to the surface at night. Moreover, the the shrimp competed with kokanee by eating other zooplankton."
         },
         "background": {
           "url":"/assets/images/daphnias2.jpg"
@@ -208,8 +229,8 @@ timedata = {
           "year": "1980"
         },
         "text": {
-          "headline": "Moratorium",
-          "text": "In 1980, fisheries scientists called for a moratorium on mysis introductions. But... First discovered in Flathead Lake in 1981..."
+          "headline": "Moratorium on Introductions",
+          "text": "In 1980, scientists called for a moratorium on mysid introductions and sought to understand what had gone wrong. Some fisheries managers claimed that the feeding habits of mysids had not been known, but that was not correct. Fisheries managers knew mysids lived on the bottom because during the day; they collected them there with trawls. As Clemens pointed out in 1939, this meant that kokanee would not be able to feed on mysids. In addition, Larkin, among others, was well-aware that mysids ate other zooplankton. It wasn't lack of scientific knowledge, but the overwhelming example of apparent kokanee success at Kootenay Lake that drove hasty introductions. As it turned out, however, Kootenay Lake's West Arm had a unique upwelling that made mysids available to kokanee."
         },
         "background": {
           "url":"/assets/images/mysis-noaa-alt-ban2.png"
@@ -226,8 +247,8 @@ timedata = {
           "year": "1981"
         },
         "text": {
-          "headline": "Flathead Lake",
-          "text": "Downstream drift..."
+          "headline": "Mysids Reach Flathead Lake",
+          "text": "The moratorium could not, of course, remove mysids that had been transplanted. In addition, mysids in some lakes drifted downstream and became established in other lakes. The most dramatic example of this was in Montana, when mysids that had been transplanted to Whitefish Lake drifted down the Whitefish River to Flathead Lake, the largest freshwater lake in the western U.S. and one of the biggest kokanee fisheries. Fisheries managers first discovered mysids in the lake in 1981."
         },
         "background": {
           "url":"/assets/images/trolling-flathead-biennial1941.JPG"
@@ -237,15 +258,18 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/mysis.flathead-ellis-2010-dissertation.JPG",
-          "caption": "OTA Report",
-          "credit": "U.S. Office of Technology Assessment"
+          "caption": "Cascading effects of mysids in the Flathead basin. Background: Bald eagles in Glacier Park near Lake McDonald. Beaumont (1978).",
+          "credit": "Ellis (2010)"
         },
         "start_date": {
-          "year": "1981"
+          "year": "1985"
+        },
+        "end_date": {
+          "year": "2014"
         },
         "text": {
-          "headline": "Flathead Lake",
-          "text": "The effects were dramatic..."
+          "headline": "Cascading Effects at Flathead Lake",
+          "text": "Mysid populations in Flathead Lake spiked in 1985. That year, sportfishers caught 100,000 pounds of kokanee. In 1987, they caught zero. Kokanee declined because mysids competed with them and because mysids bolstered the non-native lake trout population, which preyed on kokanee. In addition, lake trout outcompeted the similar, but native, bull trout. And the effects went beyond the lake. Kokanee from Flathead Lake had spawned in huge numbers at Lake McDonald, Glacier Park, producing the largest congregation of bald eagles in the nation, who came there to feed on the spawners. When kokanee plummeted, so did the bald eagles. The ripple effects of mysids affected other mammal species as well."
         },
         "background": {
           "url":"/assets/images/eagle2-hathi2crop.jpg"
@@ -254,7 +278,7 @@ timedata = {
 
       {
         "media": {
-          "url": "/assets/images/cover-ota-1993-nis2.jpg",
+          "url": "/assets/images/cover-ota-1993-nis.JPG",
           "caption": "OTA Report",
           "credit": "U.S. Office of Technology Assessment"
         },
@@ -262,8 +286,8 @@ timedata = {
           "year": "1993"
         },
         "text": {
-          "headline": "OTA Report",
-          "text": "In 1993, the federal Office of Technology Assessment published a prominent report on \"harmful non-indigenous species\" -- plants and animals that spread or were introduced beyond their \"native\" range and subsequently \"invaded\" their new range, causing economic or environmental harm. For example, an invasive species introduced to an ecosystem could cause effects that \"cascade throughout the system, like a line of falling dominoes.\" The key example of such an effect was the introduction of mysis shrimp into the Flathead River-Lake ecosystem, which included part of Glacier National Park. The shrimp devoured the native zooplankton. \"This decline, in turn, contributed to a drop in forage fish, ultimately driving away the areas fish predators -- including eagles, otters, coyotes and bears.\""
+          "headline": "Federal Report on Invasive Species",
+          "text": "In 1993, the federal Office of Technology Assessment published a prominent report on the harmful effects of \"invasive\" species. One of the harms noted was the potential for effects that \"cascade throughout the system, like a line of falling dominoes.\" The key example of such an effect was mysids in the Flathead Basin ecosystem. The cascading effects of mysids in Flathead has remained a key example of the potentially-far reaching effects of 'invasive' species, even though the term 'invasive' is dubious for such an isolated species. The role of humans, particularly well-informed scientists, was crucial to their spread across North America and Scandinavia."
         },
         "background": {
           "url":"/assets/images/scales-wikimedia.jpg"
@@ -273,7 +297,7 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/bulltrout-sign-wikimedia.jpg",
-          "caption": "Sign instructing anglers not to keep bull trout",
+          "caption": "Sign instructing anglers not to keep bull trout (<i>Salvelinus confluentus</i>)",
           "credit": "U.S. Fish & Wildlife Service"
         },
         "start_date": {
@@ -281,7 +305,7 @@ timedata = {
         },
         "text": {
           "headline": "Bull Trout Listed as Threatened Species",
-          "text": "Threats to Native and Culturally-Important Species.. In 1998 the bull trout was listed as a threatened species."
+          "text": "The effects of mysid were ecological, but also legal and cultural. In 1998, the federal government listed the bull trout as a threatened species, due in part to its population decline in the Flathead that was attributed to mysid introductions. Many Native American tribes in the northwest traditionally relied on the native fish, and have strong cultural and spiritual connections to it. The bull trout's decline was particularly worrisome to the Confederated Salish and Kootenai, whose Flathead Reservation contains half of Flathead Lake."
         },
         "background": {
           "url":"/assets/images/bulltrout-wikimedia.jpg"
@@ -294,11 +318,14 @@ timedata = {
           "credit": "Djembayz/Wikimedia"
         },
         "start_date": {
+          "year": "2002"
+        },
+        "end_date": {
           "year": "2014"
         },
         "text": {
-          "headline": "The Search for Solutions",
-          "text": "Fisheries managers have tried a number of things to counter-act the negative effects of mysis shrimp introductions... In 2014, CSKT begin controversial gill-netting..."
+          "headline": "The Search for Solutions in the Flathead",
+          "text": "Fisheries managers have tried many strategies to mitigate mysid introductions, to little avail. The small creatures are nearly impossible to remove once they become established, and efforts to ramp up hatchery fish introductions have not yielded much progress. In the Flathead, fisheries managers have concentrated on trying to mitigate the lake trout population, rather than mysids directly. In 2002, state and tribal managers initiated a month-long lake trout fishing derby to reduce their population. In 2014, they began gillnetting and killing lake trout. Attempts to radically reduce the lake trout population is controversial, pitting lake trout fishing enthusiasts against proponent of the native, and spiritually important, bull trout."
         },
         "background": {
           "url":"/assets/images/cskt-flag12.jpg"
