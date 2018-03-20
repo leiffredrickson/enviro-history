@@ -3,7 +3,7 @@ title: A Year Without Summer &#8212; Apocalyptic Paintings of the 1815 Mount Tam
 featured: images/time-of-the-ash-rain-detail.jpg
 excerpt: Courtney Blazon is known for her beautiful but often creepy, richly storied and extremely surreal marker-and-ink works, and for this project she went the distance. Four largescale illustrations and dozens of smaller pieces, inspired by the eruption of Mount Tambora on the island of Sumbawa in 1815, capture death and illness, folklore, climate change and even the birth of Mary Shelley’s Frankenstein.
 author: Erika Fredrickson
-authorbio: Erika Fredrickson is the Arts and Entertainment editor for the <i>Missoula Independent</i>.
+authorbio: Erika Fredrickson is the co-editor of Enviro-History. She received an M.S. in Environmental Studies at the University of Montana in 2009. Since 2008, she's worked as the arts editor at the <i>Missoula Independent</i> — Montana's only alt-weekly — where she covers the arts, food policy, and local characters. <a href="https://www.twitter.com/@JM_Thompson">@efredmt</a> on Twitter.
 layout: post
 ---
 
