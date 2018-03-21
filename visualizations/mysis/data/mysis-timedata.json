@@ -240,8 +240,8 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/flathead-map-crop.jpg",
-          "caption": "Flathead Lake",
-          "credit": "Leif Fredrickson"
+          "caption": "Flathead Lake basin, including Whitefish Lake, Glacier, and Lake McDonald. Also shown are mysid introduction sites in Idaho, and Waterton Lake, a source of naturally-occuring mysids.",
+          "credit": "Leif Fredrickson (2017)"
         },
         "start_date": {
           "year": "1981"
@@ -279,8 +279,7 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/cover-ota-1993-nis.JPG",
-          "caption": "OTA Report",
-          "credit": "U.S. Office of Technology Assessment"
+          "caption": "U.S. Office of Technology Assessment's report <i>Harmful Non-Indigenous Species of the United States</i>"
         },
         "start_date": {
           "year": "1993"
@@ -298,7 +297,7 @@ timedata = {
         "media": {
           "url": "/assets/images/bulltrout-sign-wikimedia.jpg",
           "caption": "Sign instructing anglers not to keep bull trout (<i>Salvelinus confluentus</i>)",
-          "credit": "U.S. Fish & Wildlife Service"
+          "credit": "Brambleshire/Wikimedia (2010)"
         },
         "start_date": {
           "year": "1998"
@@ -313,9 +312,9 @@ timedata = {
       },
       {
         "media": {
-          "url": "/assets/images/lake-trout-swan-fredenberg-usfws2.jpg",
-          "caption": "The flag of the Confederated Salish Kootenai Tribes",
-          "credit": "Djembayz/Wikimedia"
+          "url": "/assets/images/mack-days.JPG",
+          "caption": "Confederated Salish and Kootenai tribes' program designed to reduce lake trout (also known as 'mackinaw' or 'mack'). Background: The flag of the Confederated Salish Kootenai Tribes. Djembayz/Wikimedia (2015)",
+          "credit": "Confederated Salish and Kootenai Tribes (2018)"
         },
         "start_date": {
           "year": "2002"
