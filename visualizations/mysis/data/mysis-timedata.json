@@ -313,7 +313,7 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/mack-days.JPG",
-          "caption": "Confederated Salish and Kootenai tribes' program designed to reduce lake trout (also known as 'mackinaw' or 'mack'). Background: The flag of the Confederated Salish Kootenai Tribes. Djembayz/Wikimedia (2015)",
+          "caption": "Confederated Salish and Kootenai tribes' program designed to reduce lake trout (also known as 'mackinaw' or 'mack'). Background: The flag of the Flathead Nation. Djembayz/Wikimedia (2015)",
           "credit": "Confederated Salish and Kootenai Tribes (2018)"
         },
         "start_date": {
@@ -324,7 +324,7 @@ timedata = {
         },
         "text": {
           "headline": "The Search for Solutions in the Flathead",
-          "text": "Fisheries managers have tried many strategies to mitigate mysid introductions, to little avail. The small creatures are nearly impossible to remove once they become established, and efforts to ramp up hatchery fish introductions have not yielded much progress. In the Flathead, fisheries managers have concentrated on trying to mitigate the lake trout population, rather than mysids directly. In 2002, state and tribal managers initiated a month-long lake trout fishing derby to reduce their population. In 2014, they began gillnetting and killing lake trout. Attempts to radically reduce the lake trout population is controversial, pitting lake trout fishing enthusiasts against proponent of the native, and spiritually important, bull trout."
+          "text": "Fisheries managers have tried many strategies to mitigate mysid introductions, to little avail. The small creatures are nearly impossible to remove once they become established, and efforts to ramp up hatchery fish introductions have not yielded much progress. In the Flathead, fisheries managers have concentrated on trying to mitigate the lake trout population, rather than mysids directly. In 2002, state and tribal managers initiated a month-long lake trout fishing derby -- called 'Mack Days,' after the common lake trout name 'mackinaw' -- to reduce their population. In 2014, they began gillnetting and killing lake trout. Attempts to radically reduce the lake trout population is controversial, pitting lake trout fishing enthusiasts against proponent of the native, and spiritually important, bull trout."
         },
         "background": {
           "url":"/assets/images/cskt-flag12.jpg"
