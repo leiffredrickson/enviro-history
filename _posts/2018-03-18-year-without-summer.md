@@ -17,7 +17,7 @@ The artwork combines environmental history with Blazon’s surreal sensibility. 
 
 For her work on The Year Without a Summer, Blazon drew specifically from the two books mentioned previously, Tambora: The Eruption that Changed the World and The Year Without Summer: 1816 and the Volcano That Darkened the World and Changed History. Here, we explore the artistic details of the series’ four main pieces, which Blazon created based on the historical facts from those books.
 
-##Zaman Hujan Au (Time of the Ash and Rain)
+## Zaman Hujan Au (Time of the Ash and Rain)
 The 1815 eruption of Mount Tambora killed tens of thousands of people and decimated a whole ecosystem of wildlife and plants. Very few escaped, and most of those who survived the initial blast slowly died from famine and disease. In The Year Without Summer, William Klingaman and Nicholas Klingaman wrote: “Over the following month, thousands more perished — some from severe respiratory infections from the ash that remained in the atmosphere in the aftermath of the eruption, others from violent diarrhoeal disease, the result of drinking water contaminated with acidic ash. The same deadly ash poisoned crops, especially the vital rice fields, raising the death toll higher.”. In this piece titled “Time of Ash and Rain,” Blazon depicts the moment of eruption in bright reds, blues, blacks, oranges and yellows. In the bottom right-hand corner, a few inhabitants of the island appear to be dripping in lava and possibly melting away.
 
 ><img src="{{ site.baseurl }}/assets/images/time-of-the-ash-rain.jpg" width="1000">
@@ -32,7 +32,8 @@ At the time of the eruption, Sumbawa people had a strong economy: They were know
 
 For months prior to the eruption people on the island had felt rumblings from Mount Tambora. In that time, disasters of any kind were often attributed to the anger of the Gods, and Tambora was no exception. In the picture, an angry god, who appears to be central to the volcano’s activity, crouches in front of Tambora, vomiting lava onto the land. There’s also a fiery man sitting cross-legged, seemingly perched on the island women’s heads. He represents another theory the people of Sumbawa had: That the disconcerting sounds from the volcano’s depths came from a holy man who had the power to reanmiate dead dogs and who, when invoked, caused volcanic activity.
 
-##Détails sur Le Fin Du Monde
+## Détails sur Le Fin Du Monde
+
 The change in climate after Mount Tambora produced strange weather in Europe and led to the creation of two beloved monsters. In the summer of 1816, Lord Byron and his personal physician, Dr. John Polidori, rented the Villa Diodati near Lake Geneva and took in several visitors, including Mary Godwin and her lover, Percy Shelley. The incessant rain and wind made it hard to be outside, so the writers holed up in the villa where they told German ghost stories to each other to pass the time. Lord Byron made a game of it, encouraging everyone to make up their own creepy tales. Two of those stories were expanded upon and published later. Polidori’s The Vampyre (which was initially attributed to Lord Byron) is credited with popularizing an early romantic version of the blood-sucking character. Godwin, who would of course become Mary Shelley, published Frankenstein two years later.
 
 ><img src="{{ site.baseurl }}/assets/images/details-sur-la-fin-du-monde.jpg" width="1000">
@@ -63,7 +64,7 @@ The volcano disaster exacerbated many diseases, including typhus, which is carri
 
 Unlike typhus, which tended to strike the poorest regions, cholera was an equal opportunity menace. It hit India hard and infected the water supply of entire towns, affecting people across social strata. People burned diseased bodies on funeral pyres or dumped them in rivers, which helped spread the disease. According to D’Arcy Wood, Tambora’s sulfate dust disrupted monsoons in South Asia for three consecutive years, which allowed cholera in Bengal (where it was endemic) to mutate and spread across Asia and, eventually, into Europe.
 
-##The Poetry of the Seven Sorrows
+## The Poetry of the Seven Sorrows
 This piece centers on a specific event that happened in Paris in 1832, after cholera had reached Northern Europe. Poet and journalist Heinrich Heine witnessed a masquerade ball where suddenly, in the middle of the merriment, a harlequin performer fell ill with cholera. Heine reported: “[The harlequin] felt a chill in his legs, took off his mask, and to the amazement of all revealed a violet-blue face. It was soon discovered that this was no joke; the laughter died, and several wagon loads were driven directly from the ball to the Hotel-Dieu, the main hospital, where they arrived in their gaudy fancy dress and promptly died, too … Those dead were said to have been buried so fast that not even their checkered fool's clothes were taken off them; and merrily as they lived they now lie in their graves.”
 
 ><img src="{{ site.baseurl }}/assets/images/poetry-of-the-seven-sorrows.jpg" width="1000">
@@ -83,7 +84,7 @@ The poor conditions in New England motivated people to migrate west, pushing out
 
 There were a few less horrific outcomes that happened in the years after Tambora. Hunger spurred invention: The slaughter of horses for food in Europe, for instance, led to Karl Drais developing a prototype of a bicycle, which is illustrated in the upper righthand corner. And environmental disaster also spurred new scientific ideas: The volcanic winter created rapid glaciation in the Swiss Alps, which stimulated scientists, such as Ignaz Venetz, to develop theories about climate change and the role of glaciers in shaping the earth.
 
-##Welcome to the Pleasure Dome
+## Welcome to the Pleasure Dome
 The writers and artists inspired by the Year Without a Summer couldn’t have understood how their work would resonate in the future. But their work has resonated, above all, Shelley’s Frankenstein, which generation after generation has returned to for its timeless cautionary tale. This last piece, Blazon takes the voices and themes of the past and lets them reverberate into the future. It’s the piece that, more than any of the others, allows Blazon to become -- like the artists she depicts -- a commentator.
 
 ><img src="{{ site.baseurl }}/assets/images/welcome-to-the-pleasure-dome.jpg" width="1000">
@@ -95,4 +96,3 @@ In the bottom left-hand corner, starving polar bears navigate the melting ice ca
 There are seemingly endless details here — as in all her works — but Blazon brings it full circle with the image of an airplane seeding the clouds. It’s a manmade attempt to cool the earth in the face of global warming, by replicating the effects of Mount Tambora’s eruption so many years ago.
 
 **{{ page.authorbio }}**
-###### Notes
