@@ -1,6 +1,6 @@
 ---
 title: A Year Without Summer &#8212; Apocalyptic Paintings of the 1815 Mount Tambora Eruption
-featured: images/welcome-to-the-pleasure-dome.jpg
+featured: images/time-of-the-ash-rain-landing.jpg
 excerpt: In four large-scale illustrations, artist Courtney Blazon explores, in surreal detail, the effects of the eruption of Mount Tambora on the island of Sumbawa in 1815, capturing disease, death, folklore, climate change and even the birth of Mary Shelley’s <i>Frankenstein</i>.
 author: Erika Fredrickson
 authorbio: Erika Fredrickson is the co-editor of Enviro-History. She received an M.S. in Environmental Studies at the University of Montana in 2009. Since 2008, she's worked as the arts editor at the <i>Missoula Independent</i> — Montana's only alt-weekly — where she covers the arts, food policy, and local characters. <a href="https://www.twitter.com/@efredmt">@efredmt</a> on Twitter.
