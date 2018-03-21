@@ -1,7 +1,7 @@
 ---
 title: Youngstown
 featured: images/tom-joad.jpg
-image: images/tom-joad.jpg
+image: images/kubrick-thumb.jpg
 excerpt: Youngstown exposes a fundamental feature of industrial life for many blue-collar American workers in the twentieth century&#58; the degradation of the environment was synonymous with prosperity and financial security.
 author: Jonathan D. Cohen
 authorbio: Jonathan D. Cohen is a PhD Candidate in the Corcoran Department of History at the University of Virginia, where he completing a dissertation on the history of American state lotteries. He is the coeditor of a <a href="http://www.unevadapress.com/books/?isbn=9781943859603">collection</a> on gambling in the United States and is the managing editor of <i><a href="http://boss.mcgill.ca/">BOSS&#58; The Biannual Online Journal of Springsteen Studies</a></i>.
