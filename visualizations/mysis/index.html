@@ -207,7 +207,7 @@ layout: page
 
 </head>
 <body>
-  <blockquote>This page is best viewed on a <b>laptop or larger screen</b> with a <b>Chrome or Firefox browser</b>. Start with the <b><a href="#timeline-container">timeline</a></b> to understand how the mysis crisis unfolded. Then explore the <b><a href="#map-container">map</a></b>, which visualizes where mysis shrimp were introduced to and from, and what fish species they were intended to bolster. For sources and further reading, see the <b><a href="#notes-container">references</a></b> section.</blockquote>
+  <blockquote>This page is best viewed on a <b>laptop or larger screen</b> with a <b>Chrome or Firefox browser</b>. Start with the <b><a href="#timeline-container">timeline</a></b> to understand how the mysis crisis unfolded. Then explore the <b><a href="#map-container">map</a></b>, which visualizes where mysis shrimp were introduced to and from, and what fish species they were intended to bolster. For further reading and images sources, see the <b><a href="#notes-container">references</a></b> section.</blockquote>
   <br>
   <hr>
   <div id="timeline-container" style="width:100%; padding-bottom:20px">
@@ -243,8 +243,7 @@ layout: page
   <div id='map-container' style="width:100%; padding-bottom:20px">
 
     <h2>Mysis Map</h2>
-    <p style="font-size:16px; line-height:20px; display:block; padding-left:5px"><b>How to use the map:</b> This map shows</p>
-
+    <p style="font-size:16px; line-height:20px; display:block; padding-left:5px"><b>How to use the map:</b> This lines on this map show what lakes fisheries managers collected mysids from, and what lakes they transplanted them to. The line colors show which fish species the fisheries managers were targeting (trying to improve) by transplanting mysids. Click <b>"Start Animation"</b> (top right) to see a thirty second animation of all the introductions in North America taking place by year. The year counter is at the bottom of the map. You can also <b>click on specific target fish species</b> (top right) to see a static map of these introductions and the time period they took place. Finally, you can <b>click on the lakes</b> themselves to get a popup with specific information and stories about those lakes. You can make the map <b>fullscreen</b> or <b>zoom</b> in or out (top left, and with mouse). Zooming while the animation is running does not work well. You can <b>clear and rest the map frame</b> with the "Reset" button (below).</p>
     <button onclick="reset()">RESET MAP</button>
     <script>
     function reset() {
@@ -255,12 +254,9 @@ layout: page
       };
     </script>
 
-
     <!-- Create div with map style above.
     Style "dark" renders text/foreground light on dark background (default is vice versa) -->
     <div id='map' class='dark custom-popup' style="height:55em; width:auto">
-
-
 
       <!-- Create navigation bar with menu style above-->
       <nav id='menu-ui' class='menu-ui'>
@@ -323,27 +319,30 @@ layout: page
     <h2 id=notes-container>References</h2>
       <h6>General References</h6>
         <ul style="list-style-type:none">
-        <li>Leif Fredrickson, "<a href="http://www.ingentaconnect.com/content/whp/eh/2017/00000023/00000002/art00007">Bio-Invasions and Bio-Fixes: Mysis Shrimp Introductions in the Twentieth Century</a>," <i>Environment and History</i> 23, no. 2, May 2017, 285-320.</p>
-      <h6>Image Sources</h6>
-        <ul style="list-style-type:none">
+        <li>Leif Fredrickson, "<a href="http://www.ingentaconnect.com/content/whp/eh/2017/00000023/00000002/art00007">Bio-Invasions and Bio-Fixes: Mysis Shrimp Introductions in the Twentieth Century</a>," <i>Environment and History</i> 23, no. 2, May 2017, 285-320.</li>
+      <h6>Image Sources (in order of appearance in timeline)</h6>
+        <ul style="list-style-type:none; font-size:small; line-height:20px; padding-left:10px; text-indent:-10px">
           <li>Robert Pennak,<i> Fresh-Water Invertebrates of the United States</i> (Ronald Press, 1953), 423.</li>
           <li>Charlotte Holmquist,<i> Problems on Marine-Glacial Relicts on Account of Investigations on the Genus Mysis</i> (Dissertation, Lund University, 1959), 61</li>
           <li>George Whipple,<i> <a href=https://archive.org/details/in.ernet.dli.2015.7374>Fresh Water Biology</a></i> (Wiley, 1918), 844. Image credit: "After Smith" [Frank Smith].</li>
           <li>W.A. Clemens, D.S. Rawson, J.L. McHugh, "<a href=http://a100.gov.bc.ca/appsdata/acat/documents/r1954/ABiologicalSurveyofOkanaganLake,BritishColumbia_1100902108342_37b669f77a3c4101a169cf923929cb1e.pdf>A Biological Survey of Okanagan Lake, British Columbia</a>," <i>Bulletin</i> (Fisheries Research Board of Canada, 1939), 7.</li>
-          <li>Montana Game and Fish, "<a href=https://archive.org/details/biennialreportmo19411942montrich>The Blueback Salmon of Flathead Lake</a>," <i>Biennial Report</i> 1941-942, 30.</li>
-          <li>Greg Beaumont,<i> <a href=https://catalog.hathitrust.org/Record/007418449>Many-Storied Mountains: The Life of Glacier National Park</a></i> (GPO, 1978), 95. Image credit: Greg Beaumont.</li>
           <li>U.S. Bureau of Fisheries and William Kendall,<i> <a href=https://archive.org/stream/annualreportofco2223unit#page/n61/mode/2up>Fresh-Water Crustacea as Food for Young Fishes</a></i> (GPO, 1921).</li>
           <li>Forest, Fish and Game Commission of the State of New York,<i> <a href=https://babel.hathitrust.org/cgi/pt?id=uiug.30112078789481;view=1up;seq=13>Annual Report</a></i> (Wynkoop Hallenbeck Crawford, 1896). Image credit: S.F. Denton.</li>
           <li>University of British Columbia Archives Photograph Collection, "<a href=https://open.library.ubc.ca/collections/arphotos/items/1.0142333>Group Photo with Peter Larkin after Receiving Award for Excellence from Rawson Academy of Aquatic Science</a>," UBC 18.1/1-2 (1985).</li>
           <li>N.A. Nilsson, "Biological Effects of Water-Power Exploitation in Sweden, and Means of Compensation for Damage," in <i>International Commission on Large Dams</i>, Madrid, Spain (Paris, 1973), 931.</li>
           <li>Colorado Game and Fish Department and W.D. Klein, "An Experimental Plant of the Small Crustacean Mysis," Fishery Leaflet No. 53, October 15, 1957, Colorado Parks and Wildlife Research Center Library, Fort Collins, Colorado.</li>
           <li>California Fish and Game, Jack Linn and tedd Frantz, "<a href=https://archive.org/details/californiafishga51_1cali>Introduction of the Opossum Shrimp (<i>Mysis relicta</i>) into California and Nevada</a>," <i>Californai Fish and Game</i> January 1965, 48-51.</li>
+          <li>R.A. Sparrow, Peter Larkin, R.A. Rutherglen, "Successful Introduction of <i>Mysis relicta</i> Lovén into Kootenay Lake, British Columbia," <i>Journal of the Fisheries Research Board of Canada</i>, 21 (1964) , 1325–7.</li>
           <li>Idaho Fish and Game and Jack McNeel, "Shrimp Salad for Kokanee" <i>Idaho Wildlife Review</i> January-February 1967, 6-8.</li>
           <li>Timothy Knepp and U.S. Fish and Wildlife Service, <a href=https://commons.wikimedia.org/wiki/File:Oncorhynchus_nerka.jpg>Oncorhynchus nerka</a>, 2001.</li>
           <li>Caribou County Sun, "State Record Kokanee," <i>Caribou County Sun</i> November 14, 1974.</li>
           <li>Peter Larkin, "Pontoporeia and Mysis in Athabaska, Great Bear and Great Slave Lakes," <i>Journal of the Fisheries Research Board of Canada</i> 78, 1948, 26.</li>
+          <li>Leif Fredrickson, "<a href="http://www.ingentaconnect.com/content/whp/eh/2017/00000023/00000002/art00007">Bio-Invasions and Bio-Fixes: Mysis Shrimp Introductions in the Twentieth Century</a>," <i>Environment and History</i> 23, no. 2, May 2017, 285-320.</li>
+          <li>Montana Game and Fish, "<a href=https://archive.org/details/biennialreportmo19411942montrich>The Blueback Salmon of Flathead Lake</a>," <i>Biennial Report</i> 1941-1942, 30.</li>
+          <li>Bonnie Ellis, <i><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.427.4177&rep=rep1&type=pdf">Alternate States in a Large Oligotrophic Lake: A Retrospective Analysis of Nutrient Loading and Food Web Change</a></i>, (Dissertation, University of Montana, 2006), 182.</li>
+          <li>Greg Beaumont,<i> <a href=https://catalog.hathitrust.org/Record/007418449>Many-Storied Mountains: The Life of Glacier National Park</a></i> (GPO, 1978), 95.</li>
           <li>U.S. Office of Technology Assessment, <i><a href="http://ota.fas.org/reports/9325.pdf">Harmful Non-Indigenous Species of the United States</a></i>, 1993.</li>
-          <li> Brambleshire/Wikimedia, "<a href="https://commons.wikimedia.org/wiki/File:Bull_trout_sign_at_Lake_Pend_Oreille.jpg">Sign for anglers regarding protection of bull trout</a>," 2010.</li>
+          <li>Brambleshire/Wikimedia, "<a href="https://commons.wikimedia.org/wiki/File:Bull_trout_sign_at_Lake_Pend_Oreille.jpg">Sign for anglers regarding protection of bull trout</a>," 2010.</li>
           <li>Confederated and Salish Kootenai Tribes, <a href="http://www.mackdays.com/">Mack Days</a>, 2018.</li>
           <li>Djembayz/Wikimedia, "<a href="https://commons.wikimedia.org/wiki/File:Flathead_Nation_Flag_at_2015_Arlee_Celebration_Pow_Wow_1.JPG">Flathead Nation Flag</a>," 2015.</li>
 

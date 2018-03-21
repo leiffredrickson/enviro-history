@@ -184,7 +184,7 @@ timedata = {
         "media": {
           "url": "/assets/images/record-caribou-1974.JPG",
           "caption": "An Idaho state record kokanee caught in Priest Lake in 1974.",
-          "credit": "Caribou County Sun"
+          "credit": "Caribou County Sun (1974)"
         },
         "start_date": {
           "year": "1965"
@@ -205,7 +205,7 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/foodweb-larkin-1948.JPG",
-          "caption": "An early article by Larkin showing he knew about mysid predation on zooplankton. Background: <Daphnia>, a type of plankton mysids competed with kokanee for.",
+          "caption": "An early article by Larkin showing he knew about mysid predation on zooplankton. Background: <i>Daphnia</i>, a type of plankton mysids competed with kokanee for.",
           "credit": "Larkin (1948)"
         },
         "start_date": {
@@ -229,7 +229,7 @@ timedata = {
           "year": "1980"
         },
         "text": {
-          "headline": "Moratorium on Introductions",
+          "headline": "Moratorium on Transplants",
           "text": "In 1980, scientists called for a moratorium on mysid introductions and sought to understand what had gone wrong. Some fisheries managers claimed that the feeding habits of mysids had not been known, but that was not correct. Fisheries managers knew mysids lived on the bottom because during the day; they collected them there with trawls. As Clemens pointed out in 1939, this meant that kokanee would not be able to feed on mysids. In addition, Larkin, among others, was well-aware that mysids ate other zooplankton. It wasn't lack of scientific knowledge, but the overwhelming example of apparent kokanee success at Kootenay Lake that drove hasty introductions. As it turned out, however, Kootenay Lake's West Arm had a unique upwelling that made mysids available to kokanee."
         },
         "background": {
@@ -240,8 +240,8 @@ timedata = {
       {
         "media": {
           "url": "/assets/images/flathead-map-crop.jpg",
-          "caption": "Flathead Lake basin, including Whitefish Lake, Glacier, and Lake McDonald. Also shown are mysid introduction sites in Idaho, and Waterton Lake, a source of naturally-occuring mysids.",
-          "credit": "Leif Fredrickson (2017)"
+          "caption": "Flathead Lake basin, including Whitefish Lake, Glacier, and Lake McDonald. Also shown are mysid introduction sites in Idaho, and Waterton Lake, a source of naturally-occuring mysids. Background: Trolling on Flathead Lake. Montana Fish and Game (1941)",
+          "credit": "Fredrickson (2017)"
         },
         "start_date": {
           "year": "1981"
@@ -295,8 +295,8 @@ timedata = {
 
       {
         "media": {
-          "url": "/assets/images/bulltrout-sign-wikimedia.jpg",
-          "caption": "Sign instructing anglers not to keep bull trout (<i>Salvelinus confluentus</i>)",
+          "url": "/assets/images/bulltrout-wikipedia.jpg",
+          "caption": "Sign instructing anglers not to keep bull trout (<i>Salvelinus confluentus</i>).",
           "credit": "Brambleshire/Wikimedia (2010)"
         },
         "start_date": {
@@ -307,13 +307,13 @@ timedata = {
           "text": "The effects of mysid were ecological, but also legal and cultural. In 1998, the federal government listed the bull trout as a threatened species, due in part to its population decline in the Flathead that was attributed to mysid introductions. Many Native American tribes in the northwest traditionally relied on the native fish, and have strong cultural and spiritual connections to it. The bull trout's decline was particularly worrisome to the Confederated Salish and Kootenai, whose Flathead Reservation contains half of Flathead Lake."
         },
         "background": {
-          "url":"/assets/images/bulltrout-wikimedia.jpg"
+          "url":"/assets/images/scales-wikimedia.jpg"
         }
       },
       {
         "media": {
           "url": "/assets/images/mack-days.JPG",
-          "caption": "The website for 'Mack Days,' the fishing derby designed to reduce lake trout. Background: The flag of the Flathead Nation. Djembayz/Wikimedia (2015)",
+          "caption": "The website for 'Mack Days,' the fishing derby designed to reduce lake trout in Flathead Lake. Background: The flag of the Flathead Nation. Djembayz/Wikimedia (2015)",
           "credit": "Confederated Salish and Kootenai Tribes (2018)"
         },
         "start_date": {
