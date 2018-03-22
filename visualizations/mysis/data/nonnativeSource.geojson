@@ -4107,7 +4107,7 @@ nonnativeSource = {
   "properties": {
     "name": "Kootenay Lake",
     "state": "British Columbia",
-    "note": "Kootenay Lake was the site of the first transplant of mysids for fish food in the world in 1949 and again in 1950. The mysids came from Waterton Lake, Alberta, where they are native. Peter Larkin, eventually a famous fish biologist, had written an article advocating the introduction of mysids into lakes for lake trout. But when he initiated the transplant for Kootenay Lake, he targeted the lakes famous rainbow trout fishery. It took years for the mysids to become established, but in 1964, Larkin reported that mysids had been 'successfully' introduced and were having a positive effect on the lake's fishery. The positive effect was primarily on kokanee, not trout, however, and the soon became world famous for its kokanee, breaking world records. Larkin's article and the success of the kokanee fishery catalyzed fisheries managers across North America to introduce mysids for kokanee fisheries."
+    "note": "Kootenay Lake was the site of the first transplant of mysids for fish food in the world in 1949 and again in 1950. The mysids came from Waterton Lake, Alberta, where they are native. Peter Larkin, eventually a famous fish biologist, had written an article advocating the introduction of mysids into lakes for lake trout. But when he initiated the transplant for Kootenay Lake, he targeted the lakes famous rainbow trout fishery. It took years for the mysids to become established, but in 1964, Larkin reported that mysids had been 'successfully' introduced and were having a positive effect on the lake's fishery. The positive effect was primarily on kokanee, not trout, however, and the soon became world famous for its kokanee, breaking world records. Larkin's article and the success of the kokanee fishery catalyzed fisheries managers across North America to introduce mysids for kokanee fisheries. Kootenay Lake was also a source for about 50 introductions to other lakes. As it turned out, the success of kokanee at Kootenay was partially the result of a unique upwelling that made bottom-living mysids available to kokanee, that feed near the surface. In addition, some of the success of the fishery was the result of an influx of nutrients from upstream activities. Eventually, the kokanee fishery also declined in Kootenay, and managers now add artificial nutrients to try to maintain the fishery."
   }
 }, {
   "type": "Feature",
@@ -5455,7 +5455,7 @@ nonnativeSource = {
   "properties": {
     "name": "Twin Lakes Reservoir",
     "state": "Colorado",
-    "note": ""
+    "note": "Twin Lakes was the site of the first introduction of mysids for food in the United States (after Canada in 1949 and Sweden in 1954). Robert Pennak, a famous biologist of freshwater crustaceans, suggested the idea in the 1950s, and the state carried out the plan in 1957, collected mysids from Clearwater Lake, Minnesota where they were native. The target was lake trout, although the plan also mentioned a possible benefit to kokanee. In the late 1960s, biologist revisited the lake and found many mysids and a lake trout population that was eating them. Twin Lakes then became the source for about 50 transplants within the state, and more than 10 outside the state, to Wyoming, Utah, South and North Dakota, and North Carolina."
   }
 },
 
