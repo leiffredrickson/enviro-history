@@ -2366,7 +2366,8 @@ nativeSource = {
       },
       "properties": {
         "name": "Trout Lake",
-        "state": "Minnesota"
+        "state": "Minnesota",
+        "note": "Mysids are native to Trout Lake, and served as the source of three transplants in 1961, 1962, and 1963. The mysids were transplanted within the state, to Grindstone Lake, where they were intended to help feed the lake trout there. The biologist who carried out and reported on this 'successful' set of transplants, Robert Schumacher, subsequently moved to Montana, where he initiated mysid transplants in that state, but with a different target: kokanee salmon."
       }
     },
     {
@@ -2381,7 +2382,8 @@ nativeSource = {
       },
       "properties": {
         "name": "Lake Michigan",
-        "state": "Michigan"
+        "state": "Michigan",
+        "note": "Mysids are native to Lake Michigan, and this lake was one of the key places scientists studied mysids. It was partly on the basis of research here that scientists understood the importance of mysids to lake trout, and also the fact that mysids lived near the bottom during the day, only coming up to the surface at night. The lake did not serve as a source of mysid introductions until much later, 1970, when North Carolina imported them for rainbow trout in Lake Nantahala."
       },
 
       }
