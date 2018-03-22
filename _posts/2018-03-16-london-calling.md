@@ -2,7 +2,7 @@
 title: London Calling
 featured: images/london-calling.jpg
 image: images/london-calling.jpg
-excerpt: “The ice age is coming, the sun is zooming in / Meltdown expected, the wheat is growin' thin / Engines stop running, but I have no fear / 'Cause London is drowning, and I, I live by the river.” Environmental apocalypse looms in Joe Strummer’s vision, and for good reason.
+excerpt: London's calling and it's drowning. “The ice age is coming, the sun is zooming in / Meltdown expected, the wheat is growin' thin.” Environmental apocalypse looms in Joe Strummer’s vision, and for good reason.
 author: Stephen Macekura
 authorbio: <a href="https://sgis.indiana.edu/faculty/directory/macekura-stephen.html">Stephen Macekura</a> is Assistant Professor of International Studies at Indiana University-Bloomington.
 object: The Clash, "London Calling," <a href="https://www.discogs.com/The-Clash-London-Calling/release/9249889">London Calling</a>, Epic, E2-36328, 1979.

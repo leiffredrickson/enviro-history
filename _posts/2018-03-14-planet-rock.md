@@ -2,7 +2,7 @@
 title: Planet Rock&#58; Environmental Histories of Songs
 featured: images/rca-toxic-holocaust.jpg
 image: images/rca-toxic-holocaust.jpg
-excerpt: From the redwood forests to Standing Rock. In the ghetto and on the moon. Three miles down the mineshaft and up in the skies of L.A. From before the deluge, when the land belonged to God, to the year twenty-five-twenty-five -- our environments have shaped our music. And we have used music to celebrate, scorn, commune with, and protest our environments. We may live on a hungry planet, even a poison planet, but we also live on planet rock.
+excerpt: From the redwood forests to Standing Rock, in the ghetto and on the moon, our environments have shaped our music. We may live on a hungry planet, even a poison planet, but we also live on planet rock.
 author: Leif Fredrickson
 authorbio: Leif Fredrickson is a historian and creator of <i>Enviro-History</i>.
 layout: post
