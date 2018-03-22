@@ -3305,7 +3305,7 @@ data = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -116.934,48.59 ]
+       "coordinates":  [ -116.8669,48.5880 ]
     },
     "properties": {
     "lake_name":"Priest Lake",
@@ -3425,7 +3425,7 @@ data = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -116.934,48.59 ]
+       "coordinates":  [ -116.8669,48.5880 ]
     },
     "properties": {
     "lake_name":"Priest Lake",
