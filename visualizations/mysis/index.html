@@ -244,7 +244,14 @@ layout: page
   <div id='map-container' style="width:100%; padding-bottom:20px">
 
     <h2>Mysis Map</h2>
-    <p style="font-size:16px; line-height:20px; display:block; padding-left:5px"><b>How to use the map:</b> This lines on this map show what lakes fisheries managers collected mysids from, and what lakes they transplanted them to. The line colors show which fish species the fisheries managers were targeting (trying to improve) by transplanting mysids. Click <b>"Start Animation"</b> (top right) to see a thirty second animation of all the introductions in North America taking place by year. The year counter is at the bottom of the map. You can also <b>click on specific target fish species</b> (top right) to see a static map of these introductions and the time period they took place. Finally, you can <b>click on the lakes</b> themselves to get a popup with specific information and stories about those lakes. You can make the map <b>fullscreen</b> or <b>zoom</b> in or out (top left, and with mouse). Zooming while the animation is running does not work well. You can <b>clear and rest the map frame</b> with the "Reset" button (below).</p>
+    <p style="font-size:16px; line-height:20px; display:block; padding-left:5px">
+      <b>How to use the map:</b> This lines on this map show what lakes fisheries managers collected mysids from, and what lakes they transplanted them to. The line colors show which fish species the fisheries managers were targeting (trying to improve) by transplanting mysids. Click <b>"Start Animation"</b> (top right) to see a thirty second animation of all the introductions in North America taking place by year. The year counter is at the bottom of the map. You can also <b>click on specific target fish species</b> (top right) to see a static map of these introductions and the time period they took place. Finally, you can <b>click on the lakes</b> themselves to get a popup with specific information and stories about those lakes. You can make the map <b>fullscreen</b> or <b>zoom</b> in or out (top left, and with mouse). Zooming while the animation is running does not work well. You can <b>clear and rest the map frame</b> with the "Reset" button (below).
+    </p>
+
+    <p style="font-size:16px; line-height:20px; display:block; padding-left:5px">
+      <b>Lake Color Key:</b> <span style="color:rgb(0, 10, 255); background-color:lightgrey">BLUE</span>=Source lake of native mysids for introductions; <span style="color:rgb(227, 255, 0); background-color:grey">YELLOW</span>=Site of intentional introductions; <span style="color:rgb(0, 255, 33); background-color:grey">GREEN</span>=Site of intentional introductions and source lake for introductions; <span style="color:rgb(255, 0, 0); background-color:lightgrey">RED</span>=Site of intentional introductions and source lake for unintentional introduction; <span style="color:rgb(255, 107, 0); background-color:lightgrey">ORANGE</span>=Site of unintentional introductions.
+    </p>
+
     <button onclick="reset()">RESET MAP</button>
     <script>
     function reset() {
@@ -304,6 +311,8 @@ layout: page
       <script src='data/nativeSource.geojson'></script>
       <script src='data/unintentSource.geojson'></script>
       <script src='data/unintentDestination.geojson'></script>
+      <script src='data/destination.geojson'></script>
+      <script src='data/nonnativeSource.geojson'></script>
 
       <script src='scripts/mysis-map-script.js'></script>
 

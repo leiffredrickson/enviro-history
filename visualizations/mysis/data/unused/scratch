@@ -1,0 +1,40 @@
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [lat, lon],
+            [lat, lon],
+            [lat, lon]
+          ]
+        ]
+      ]
+    },
+    "properties": {
+    "name": "Xxxxx Xxxxx",
+    "state": "",
+    "note": ""
+    }
+  },
+
+
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [-114.362238, 48.417429],
+            [-114.363627, 48.418535],
+            [-114.364115, 48.418859],
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "name": "Whitefish Lake",
+      "state": "Montana",
+      "note": "In 1968, Robert Schumacher, a fisheries biologist introduced mysids in Whitefish Lake and several other lakes in the Flathead basin. Schumacher had moved to Montana from Minnesota. In Minnesota, from 1961 to 1963, he had transplanted mysids from Trout Lake, where they were native, to Grindstone Lake, where he hoped they would bolster the lake trout population. The introduction in Montana, however, targeted kokanee salmon, in an attempt to mimic the results at Kootenay Lake, BC."

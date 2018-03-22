@@ -1,7 +1,7 @@
 unintentSource = {
   "type": "FeatureCollection",
     "features": [
-      {
+    {
       "type": "Feature",
       "geometry": {
         "type": "MultiPolygon",
@@ -867,8 +867,9 @@ unintentSource = {
         ]
       },
       "properties": {
-        "cartodb_id": 147,
-        "name": "Whitefish Lake"
+        "name": "Whitefish Lake",
+        "state": "Montana",
+        "note": "In 1968, Robert Schumacher, a fisheries biologist introduced mysids in Whitefish Lake and several other lakes in the Flathead basin. Schumacher had moved to Montana from Minnesota. In Minnesota, from 1961 to 1963, he had transplanted mysids from Trout Lake, where they were native, to Grindstone Lake, where he hoped they would bolster the lake trout population. The introduction in Montana, however, targeted kokanee salmon, in an attempt to mimic the results at Kootenay Lake, BC."
       }
     },
     {
@@ -10293,8 +10294,9 @@ unintentSource = {
         ]
       },
       "properties": {
-        "cartodb_id": 98,
-        "name": "Okanagan Lake"
+        "name": "Okanagan Lake",
+        "state": "British Columbia",
+        "note": "The first proposal for mysid introductions, made by fisheries biologist W.A. Clemens in 1939, was targeted at Okanagan Lake. Clemens believed that the whitefish in the lake would benefit from mysids, because they fed near the bottom, whereas other fish, like rainbow trout and kokanee salmon, would not benefit."
       }
     },
     {
@@ -10881,9 +10883,14 @@ unintentSource = {
         ]
       },
       "properties": {
-        "cartodb_id": 49,
-        "name": "Grand Lake"
+        "name": "Grand Lake",
+        "state": "Colorado",
+        "note": ""
       }
     }
+
+
+
   ]
+
 }

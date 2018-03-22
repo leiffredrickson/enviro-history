@@ -47,10 +47,10 @@
 
     // Add a layer of lakes, styling them blue. This style is changed later with onclicks.
     showlakes(nativeSource, 'rgb(0, 10, 255)', 'rgb(0, 10, 255)');
-    // showlakes(nonativeSource, 'rgb(255, 0, 255)', 'rgb(255, 0, 255)')
-  //  showlakes(destination, 'rgb(255, 0, 0)', 'rgb(255, 0, 0)')
+    showlakes(destination, 'rgb(227, 255, 0)', 'rgb(227, 255, 0)');
+    showlakes(nonnativeSource, 'rgb(0, 255, 33)', 'rgb(0, 255, 33)');
     showlakes(unintentSource, 'rgb(255, 0, 0)', 'rgb(255, 0, 0)');
-    showlakes(unintentDestination, 'rgb(0, 255, 33', 'rgb(0, 255, 33');
+    showlakes(unintentDestination, 'rgb(255, 107, 0)', 'rgb(255, 107, 0)');
 
 
     // Create the pairs array (creates an empty array to be filled later)

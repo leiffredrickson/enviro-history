@@ -995,8 +995,9 @@ unintentDestination = {
       ]
     },
     "properties": {
-      "cartodb_id": 100,
-      "name": "Osoyoos Lake"
+      "name": "Osoyoos Lake",
+      "state": "British Columbia",
+      "note": ""
     }
   }, {
     "type": "Feature",
@@ -5773,8 +5774,9 @@ unintentDestination = {
       ]
     },
     "properties": {
-      "cartodb_id": 43,
-      "name": "Flathead Lake"
+      "name": "Flathead Lake",
+      "state": "Montana",
+      "note": ""
     }
   }, {
     "type": "Feature",
@@ -7655,8 +7657,9 @@ unintentDestination = {
       ]
     },
     "properties": {
-      "cartodb_id": 59,
-      "name": "Horsetooth Reservoir"
+      "name": "Horsetooth Reservoir",
+      "state": "Colorado",
+      "note": ""
     }
   }, {
     "type": "Feature",
@@ -8803,8 +8806,9 @@ unintentDestination = {
       ]
     },
     "properties": {
-      "cartodb_id": 117,
-      "name": "Shadow Mountain Lake"
+      "name": "Shadow Mountain Lake",
+      "state": "Colorado",
+      "note": ""
     }
   }, {
     "type": "Feature",
@@ -9306,8 +9310,9 @@ unintentDestination = {
       ]
     },
     "properties": {
-      "cartodb_id": 16,
-      "name": "Carter Lake Reservoir"
+      "name": "Carter Lake Reservoir",
+      "state": "Colorado",
+      "note": ""
     }
   }, {
     "type": "Feature",
@@ -9432,8 +9437,9 @@ unintentDestination = {
       ]
     },
     "properties": {
-      "cartodb_id": 88,
-      "name": "Mary Lake"
+      "name": "Mary Lake",
+      "state": "Colorado",
+      "note": ""
     }
   }, {
     "type": "Feature",
@@ -10241,8 +10247,9 @@ unintentDestination = {
       ]
     },
     "properties": {
-      "cartodb_id": 120,
-      "name": "Skaha Lake"
+      "name": "Skaha Lake",
+      "state": "British Columbia",
+      "note": ""
     }
   }, {
     "type": "Feature",
@@ -10705,8 +10712,12 @@ unintentDestination = {
       ]
     },
     "properties": {
-      "cartodb_id": 74,
-      "name": "Lake Estes"
+      "name": "Lake Estes",
+      "state": "Colorado",
+      "note": ""
     }
-  }]
+  }
+
+
+ ]
 }
