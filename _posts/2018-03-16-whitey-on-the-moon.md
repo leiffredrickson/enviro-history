@@ -2,7 +2,7 @@
 title: Whitey on the Moon
 featured: images/scott-heron-small-talk.jpg
 image: images/earth-horizon.jpg
-excerpt: In 90 seconds, Gil Scott-Heron eviscerates the nation’s economic priorities, contrasting the spending required to land a man on the moon to the environmental degradation experienced in urban African-American communities.
+excerpt: In 90 seconds, Gil Scott-Heron eviscerates the nation’s economic priorities, contrasting the spending to put a man on the moon to the environmental degradation experienced in urban African-American communities.
 author: Joseph M. Thompson
 authorbio: <a href="https://www.twitter.com/@JM_Thompson">Joseph M. Thompson</a> is a doctoral candidate in the University of Virginia’s Corcoran Department of History. His dissertation, “Sounding Southern&#58; Music, Militarism, and the Making of the Sunbelt,” uses popular music to examine the cultural impact of the military-industrial complex on the shifting meanings of race, region, and citizenship since the 1950s.
 object: Gil Scott-Heron, “Whitey on the Moon,” <a href="https://www.discogs.com/Gil-Scott-Heron-Small-Talk-At-125th-And-Lenox/release/11402893">Small Talk at 125th and Lenox</a>, Flying Dutchman Records, Stereo FDS-131, 1970, 33 1/3 rpm.
