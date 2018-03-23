@@ -45,15 +45,8 @@ You are also not likely to find anything more than a token hip-hop song on these
 >**Brother D with Collective Effort, “[How We Gonna Make the Black Nation Rise?](https://www.discogs.com/Brother-D-with-Collective-Effort-Dib-Be-Dib-Be-Dize-How-We-Gonna-Make-The-Black-Nation-Rise/release/541671)” 1980, Clappers Records, 12” Vinyl, CL-0001.**
 ><iframe width="450" height="300" src="https://www.youtube.com/embed/S-HQR2-s1J4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-All of this is to say that music has a deep, rich, complicated relationship to the environment – or rather, to environments. The first three essays in this series reflect some the diversity in musical genres, environments, and environmental values. 
-
-<p style="text-indent:10px">  1. Joseph Thompson tells us about the relationship between the 1968 moon landing and the ghetto environment of black Americans, via Gil Scott-Heron’s angry, but humorous, song “[Whitey on the Moon](whitey-on-the-moon).”</p>
+All of this is to say that music has a deep, rich, complicated relationship to the environment – or rather, to environments. The first three essays in this series reflect some the diversity in musical genres, environments, and environmental values. Joseph Thompson tells us about the relationship between the 1968 moon landing and the ghetto environment of black Americans, via Gil Scott-Heron’s angry, but humorous, song “[Whitey on the Moon](whitey-on-the-moon).” Stephen Macekura riffs on the Clash’s plausible vision of global environmental apocalypse circa 1979, in “[London Calling](london-calling).” Jonathan Cohen looks at the fraught, two-century-long relationship between (de)industrialization, environmental destruction, and worker dignity and prosperity in Bruce Springsteen's "[Youngstown](youngstown)."
   
-<p style="text-indent:10px">  2. Stephen Macekura riffs on the Clash’s plausible vision of global environmental apocalypse circa 1979, in “[London Calling](london-calling).”</p>
-  
-<p style="text-indent:10px">  3. Jonathan Cohen looks at the fraught, two-century-long relationship between (de)industrialization, environmental destruction, and worker dignity and prosperity in Bruce Springsteen's "[Youngstown](youngstown)."</p>
-  
-
 Stay tuned for more. Music is, among other things, a guide to what we think may happen to us. It is also an indicator of what *may* happen to us, since music helps inform our views and guide our actions.
 
 What’s in store for us? What will they do to the rain? Where will the children play? Will we have the blessed green green grass of home – even a green heaven – or the greenhouse effect and a green hell?
