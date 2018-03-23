@@ -9,7 +9,7 @@ object: Gil Scott-Heron, “Whitey on the Moon,” <a href="https://www.discogs.
 layout: post
 ---
 
-In 1970, Gil Scott-Heron released his debut album, *Small Talk at 125th and Lenox*, and loaded his collection of spoken word critiques of the U.S. government’s role in the creation of racial inequality. Perhaps most famously, the album kicks off with his career-defining track “The Revolution Will Not Be Televised,” a biting fusion of pop culture criticism and radical politics that prophesied an end to white supremacy.
+In 1970, Gil Scott-Heron released his debut album, *Small Talk at 125th and Lenox*, and loaded his collection of spoken word with critiques of the U.S. government’s role in the creation of racial inequality. Perhaps most famously, the album kicks off with his career-defining track “The Revolution Will Not Be Televised,” a biting fusion of pop culture criticism and radical politics that prophesied an end to white supremacy.
 
 But Scott-Heron placed what is arguably his most pointed piece of political scrutiny inconspicuously as the second cut on side two.
 
