@@ -48,7 +48,9 @@ You are also not likely to find anything more than a token hip-hop song on these
 All of this is to say that music has a deep, rich, complicated relationship to the environment – or rather, to environments. The first three essays in this series reflect some the diversity in musical genres, environments, and environmental values. 
 
 * Joseph Thompson tells us about the relationship between the 1968 moon landing and the ghetto environment of black Americans, via Gil Scott-Heron’s angry, but humorous, song “[Whitey on the Moon](whitey-on-the-moon).”
+
 * Stephen Macekura riffs on the Clash’s plausible vision of global environmental apocalypse circa 1979, in “[London Calling](london-calling).” 
+
 * Jonathan Cohen looks at the fraught, two-century-long relationship between (de)industrialization, environmental destruction, and worker dignity and prosperity in Bruce Springsteen's "[Youngstown](youngstown)."
 
 
