@@ -60,6 +60,7 @@ As recent [books](http://margotleeshetterly.com/hidden-figures-nasas-african-ame
 
 **{{ page.authorbio }}**
 ###### Notes
+
 [^43d4]: Gil Scott-Heron, *The Last Holiday: A Memoir* (New York: Grove Press, 2012), 58-60; Marcus Baram, *Gil Scott-Heron: Pieces of a Man* (New York: St. Martin’s Press, 2014), 26.
 [^283a]: Kendra T. Field, “ ‘No Such Thing as Stand Still’: Migration and Geopolitics in African-American History,” *Journal of American History* 102, no. 3 (December 2015): 693-718; Lara Putnam, *Radical Moves: Caribbean Migrants and the Politics of Race in the Jazz Age* (Chapel Hill: University of North Carolina Press, 2013); Garrett Felber, “ ‘Harlem is the Black World’: The Organization of Afro-American Unity at the Grassroots,” *The Journal of African American History*, 100, no. 2 (Spring 2015); 199-225; “Rally ‘Round to Rid Harlem of Rats, Slumlords,” *New York Amsterdam News*, August 22, 1970, 1; Abiodun Oyewole and Umar Bin Hassan, *On a Mission: Selected Poems and a History of the Last Poets*, with Kim Green, foreword by Amiri Baraka (New York: Henry Holt and Company, 1996).
 [^65bc]: Thomas J. Sugrue, *Sweet Land of Liberty: The Forgotten Struggle for Civil Rights in the North* (New York: Random House, 2008), 404-405.

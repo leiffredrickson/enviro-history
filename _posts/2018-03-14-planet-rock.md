@@ -4,7 +4,7 @@ featured: images/rca-toxic-holocaust.jpg
 image: images/rca-toxic-holocaust.jpg
 excerpt: From the redwood forests to Standing Rock, in the ghetto and on the moon, our environments have shaped our music. We may live on a hungry planet, even a poison planet, but we also live on planet rock.
 author: Leif Fredrickson
-authorbio: Leif Fredrickson is a historian and creator of <i>Enviro-History</i>.
+authorbio: <a href="https://leiffredrickson.github.io/">Leif Fredrickson</a> is a historian and creator of <i>Enviro-History</i>.
 layout: post
 ---
 
@@ -48,7 +48,7 @@ You are also not likely to find anything more than a token hip-hop song on these
 All of this is to say that music has a deep, rich, complicated relationship to the environment – or rather, to environments. The first three essays in this series reflect some the diversity in musical genres, environments, and environmental values.
 
 >**Series Essays (So Far)**<br>  **1. Gil Scott-Heron, “[Whitey on the Moon](whitey-on-the-moon)" (1970).**  Joseph Thompson tells us about the relationship between the 1969 moon landing and the urban environment of black Americans, via Scott-Heron’s angry, but humorous, song.<br>  **2. The Clash, “[London Calling](london-calling)" (1979).**  Stephen Macekura riffs on Joe Strummer's entirely plausible vision of global environmental apocalypse.<br>  **3. Bruce Springsteen, "[Youngstown](youngstown)" (1995).**  Jonathan Cohen looks at the fraught, two-century-long relationship between (de)industrialization, environmental destruction, and worker dignity and prosperity.
-  
+
 Stay tuned for more. Music is, among other things, a guide to what we think may happen to us. It is also an indicator of what *may* happen to us, since music helps inform our views and guide our actions.
 
 What’s in store for us? What will they do to the rain? Where will the children play? Will we have the blessed green green grass of home – even a green heaven – or the greenhouse effect and a green hell?

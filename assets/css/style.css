@@ -258,7 +258,7 @@
 	}
 
 		ul.default {
-			list-style: none;
+			list-style: circle;
 		}
 
 			ul.default li {
@@ -368,7 +368,7 @@
 		}
 
 		ul.list {
-			list-style: none;
+			list-style: circle;
 		}
 
 			ul.list li {
