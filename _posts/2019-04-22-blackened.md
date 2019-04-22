@@ -50,7 +50,9 @@ As in other nuclear war songs, humans are doomed:
 
 >Termination… expiration… cancelation human race<br>
 >Expectation… liberation… population laid to waste<br>
->But there is also a sense of planetary effect from fateful human decisions:<br>
+
+But there is also a sense of planetary effect from fateful human decisions:
+
 >Smoldering decay<br>
 >Take her breath away<br>
 >Millions of our years<br>
@@ -63,7 +65,9 @@ Here is a line from &quot;Blackened&quot; that was distinctly more comprehensibl
 >See our mother<br>
 >Put to death<br>
 >See our mother die<br>
->And there is the influence of nuclear winter throughout:<br>
+
+And there is the influence of nuclear winter throughout:
+
 >Callous frigid chill<br>
 >Nothing left to kill<br>
 >Never seen before<br>
