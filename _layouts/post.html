@@ -8,7 +8,7 @@ layout: main
 				<header class="essay">
 					<h2>{{ page.title }}</h2>
 					<h3>{{ page.author }}</h3>
-					<p><em>{{ page.date | date: '%B %d, %Y' }}</em></P>
+					<p><em>{{ page.date | date: '%B %d, %Y' }}{{page.update}}</em></P>
 				</header>
 				{{ page.content }}
 				<h6>Citation</h6>
