@@ -47,7 +47,12 @@ You are also not likely to find anything more than a token hip-hop song on these
 
 All of this is to say that music has a deep, rich, complicated relationship to the environment – or rather, to environments. The first three essays in this series reflect some the diversity in musical genres, environments, and environmental values.
 
->**Series Essays (So Far)**<br>  **1. Gil Scott-Heron, “[Whitey on the Moon](whitey-on-the-moon)" (1970).**  Joseph Thompson tells us about the relationship between the 1969 moon landing and the urban environment of black Americans, via Scott-Heron’s angry, but humorous, song.<br>  **2. The Clash, “[London Calling](london-calling)" (1979).**  Stephen Macekura riffs on Joe Strummer's entirely plausible vision of global environmental apocalypse.<br>  **3. Bruce Springsteen, "[Youngstown](youngstown)" (1995).**  Jonathan Cohen looks at the fraught, two-century-long relationship between (de)industrialization, environmental destruction, and worker dignity and prosperity.
+>**Series Essays (So Far)**<br>  
+**1. Gil Scott-Heron, “[Whitey on the Moon](whitey-on-the-moon)" (1970).**  Joseph Thompson tells us about the relationship between the 1969 moon landing and the urban environment of black Americans, via Scott-Heron’s angry, but humorous, song.<br>  
+**2. The Clash, “[London Calling](london-calling)" (1979).**  Stephen Macekura riffs on Joe Strummer's entirely plausible vision of global environmental apocalypse.<br>  
+**3. Bruce Springsteen, "[Youngstown](youngstown)" (1995).**  Jonathan Cohen looks at the fraught, two-century-long relationship between (de)industrialization, environmental destruction, and worker dignity and prosperity.<br>
+**4. Jarek Ervin, "[I'm Mad](fourskins)" (1980).**  Jarek Ervin excavates the 4 Skins, a short-lived group whose black members set them apart from most other punk groups of the time, were unique in constructing a detailed sense of New York as a living space.<br>
+**5. Jacob Darwin Hamblin, "[Blackened](blackened)" (1988).**  One could argue that "Blackened" is a planet-in-peril kind of song, reminiscent of the Doors' 1967 "When the Music's Over." But not quite, Hamblin says. Metallica does not want to hear the scream of the butterfly.
 
 Stay tuned for more. Music is, among other things, a guide to what we think may happen to us. It is also an indicator of what *may* happen to us, since music helps inform our views and guide our actions.
 
