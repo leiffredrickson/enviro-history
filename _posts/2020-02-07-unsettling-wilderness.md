@@ -5,7 +5,7 @@ image: images/custer.jpg
 excerpt: Wilderness has long been a powerful and fraught concept with which to understand North American nature. In their 2013 album, The Handsome Family attempt to reimagine the concept as something more like a force than a place.
 author: Keith Pluymers
 authorbio: Keith Pluymers is Assistant Professor in the department of History at Illinois State University where he works on early modern environmental history.
-object: The Handsome Family, <a href="https://www.discogs.com/The-Handsome-Family-Wilderness/release/5533885">"Wilderness,"</a>, Carrot Top Records, Saki 055, 2013.
+object: The Handsome Family, <a href="https://www.discogs.com/The-Handsome-Family-Wilderness/release/5533885">"Wilderness,"</a> Carrot Top Records, Saki 055, 2013.
 layout: post
 ---
 Wilderness has long been a powerful and fraught concept with which to understand North American nature. Seventeenth-century English colonists deployed it to denigrate the cultures of Native peoples and advance legalistic claims to &quot;uncultivated&quot; land. After the creation of the United States, novelists and painters of the early republic celebrated vast, empty or thinly populated wilderness as the foundational landscape in which the new nation would craft its identity. Battles about whether to tame or preserve &quot;untouched&quot; places over the course of the nineteenth and twentieth centuries have been at the core of the most canonical and well-known writings, moments, and movements in mainstream U.S. environmentalism.
@@ -15,7 +15,7 @@ This notion of a vast continent of untouched land has always been a fiction, one
 In their 2013 album, &quot;Wilderness,&quot; the iconic Albuquerque-based Americana duo Brett and Rennie Sparks—The Handsome Family—attempt to reimagine the concept. Over the course of 12 songs drawing on country, bluegrass, folk ballad, and rock instrumentation and an identically titled book of essays and art that Rennie Sparks created alongside it, the Sparks seek out wilderness in red finch nests in the rafters of a Walmart or in battles between armies of ants &quot;beneath the blades of our great empire of lawns.&quot;[^cb60]
 
 >**{{ page.object }}**
-> ><img class="image feature" src="{{ site.baseurl }}/assets/images/wilderness.jpg" alt="">
+><img class="image feature" src="{{ site.baseurl }}/assets/images/wilderness.jpg" alt="">
 
 The notion of wilderness as the untouched lands of colonial myth shows up, but is quickly subverted, on the album&#39;s first song, &quot;Flies.&quot; Atop a held accordion chord and gently plucked banjo, we come upon George Armstrong Custer&#39;s corpse, stretched out in the Montana grass in 1876, warm blood still spreading across his fashionable attire and the smell of rose and cinnamon lingering on his famous golden locks. &quot;Dear Custer there&#39;s a Walmart now where once the grizzlies roamed,&quot; Brett continues plaintively. There is no Walmart at the Custer National Cemetery (the closest is 63 miles away in Billings), which makes it difficult to pinpoint precisely where the dreadful homogeny of big box retail sits atop former grizzly territory. Perhaps that&#39;s the point. &quot;Wilderness&quot; exists as geographic ambiguity, able to attach itself to particular places but also as nostalgia for a past that never was. The next line quickly snaps us back to the violence undergirding the myth in the store&#39;s interior. The culture of the frontier lingers in the cowboy shirts for sale amid &quot;mountains of hairspray.&quot; Having tamed the prairie grasses with an &quot;empire of lawns,&quot; shoppers can indulge frontier fantasies with novelty garments but also with very real instruments for continued bloodshed. &quot;Everyone has a gun,&quot; they remind us, &quot;Everyone still has a gun.&quot;
 
@@ -60,7 +60,7 @@ To stare into the dark water is both to long for seduction in the present and to
 
 Death under the spell of the giant octopus, entranced and united with the wild, is deeply seductive.
 
->"Octopus," from >**{{ page.object }}**
+>"Octopus," from **{{ page.object }}**
 ><iframe width="450" height="300" src="https://www.youtube.com/embed/Vkm04_mSmWU" frameborder="0" allowfullscreen></iframe>
 
 For most of the album, seeking or finding connection with the force of wilderness means courting death, dislocation, or the states of being that get one labeled &quot;mad.&quot; &quot;Frogs&quot; suggests that we can and should embrace this force and that doing so might even save us. Seeing a fish leap from a stream, scales shimmering in its moment of flight; watching the earth change color as it soaks to mud and dries again; listening to frogs sing at night in a field, all these experiences can connect us with the wild. Sung questions—&quot;Have you ever…&quot; &quot;Will you come outside and see?&quot;—beckon the listener to join in.
