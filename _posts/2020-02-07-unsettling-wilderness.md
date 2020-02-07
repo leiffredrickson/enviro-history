@@ -24,7 +24,7 @@ Colonial kitsch is nothing new. Rennie muses on that history in her essays. As s
 >**_Custer's Last Fight_ (1896), by the Anheuser Busch Brewing Association.**
 ><img class="image feature" src="{{ site.baseurl }}/assets/images/custer.jpg" alt="">
 
-As the Handsome Family sing this history, they introduce a twist: &quot;Flies&quot; is also a song about insects and the worlds outside of human history. Custer looked &quot;beautiful&quot; to flies present at the battle, though for different reasons than those making commemorative posters. &quot;Everyone gorged, made love, and laid their eggs in the bounty,&quot; Sparks muses, making it a day of &quot;great celebration.&quot;  It&#39;s a jarring shift in perspective that unsettles the historical narrative sketched in the verses.
+As the Handsome Family sing this history, they introduce a twist: &quot;Flies&quot; is also a song about insects and the worlds outside of human history. Custer looked &quot;beautiful&quot; to flies present at the battle, though for different reasons than those making commemorative posters. &quot;Everyone gorged, made love, and laid their eggs in the bounty,&quot; Sparks muses, making it a day of &quot;great celebration.&quot; It&#39;s a jarring shift in perspective that unsettles the historical narrative sketched in the verses.
 
 To tell stories that unsettle and help us reimagine the relationship between humans and the other-than-human world has been a central demand of much recent work on the overlapping catastrophes of climate change, mass extinction, and environmental degradation captured under the notion of the &quot;Anthropocene,&quot; the proposed geologic epoch defined by significant human influence over the Earth system. Among those works, environmental humanist and feminist science scholar Donna Haraway&#39;s 2016 collection of essays, _Staying with the Trouble_, best provides a lens to engage with the Handsome Family&#39;s album. Haraway accords great importance to narratives and storytelling. Stories structure our world and, she claims, ours must change. The essays offer both analysis of the stories we have and advice for those Haraway wants to see.
 
@@ -42,7 +42,7 @@ Throughout these verses, a bell-like keyboard invites us to listen for the chime
 >&quot;Where am I?&quot; They cry. &quot;Where are you? Where am I?&quot; <br>
 >But they will never hear the bells that ring tonight <br>
 
-The juxtapositions of sound and silence, conceptually and musically, produces an eerie effect.  Has the constant din of automobility—the sense-shattering soundscape of fossil fuel modernity—left us unable to hear deeper melodies of life?
+The juxtapositions of sound and silence, conceptually and musically, produces an eerie effect. Has the constant din of automobility—the sense-shattering soundscape of fossil fuel modernity—left us unable to hear deeper melodies of life?
 
 &quot;No,&quot; seems to be the Handsome Family&#39;s answer, though there is peril as well as pleasure when tapping into the wild forces that remain.
 
@@ -60,7 +60,6 @@ To stare into the dark water is both to long for seduction in the present and to
 
 Death under the spell of the giant octopus, entranced and united with the wild, is deeply seductive.
 
->"Octopus," from **{{ page.object }}**
 ><iframe width="450" height="300" src="https://www.youtube.com/embed/Vkm04_mSmWU" frameborder="0" allowfullscreen></iframe>
 
 For most of the album, seeking or finding connection with the force of wilderness means courting death, dislocation, or the states of being that get one labeled &quot;mad.&quot; &quot;Frogs&quot; suggests that we can and should embrace this force and that doing so might even save us. Seeing a fish leap from a stream, scales shimmering in its moment of flight; watching the earth change color as it soaks to mud and dries again; listening to frogs sing at night in a field, all these experiences can connect us with the wild. Sung questions—&quot;Have you ever…&quot; &quot;Will you come outside and see?&quot;—beckon the listener to join in.
@@ -79,6 +78,6 @@ For decades, scholars in the humanities have shown us the trouble with wildernes
 [^cb60]: The Handsome Family, &quot;Flies,&quot; on _Wilderness_ (2013).
 [^7d1c]: Rennie Sparks, _Wilderness: Essays &amp; Art_ (Albuquerque, NM: Handsome Family Music, 2013), 21 (on Hannah Duston); 140 (quotation); Barbara Cutter, &quot;The Gruesome Story of Hannah Duston, Whose Slaying of Indians Made Her an American Folk Hero,&quot; _Smithsonian_, 9 April 2018, https://www.smithsonianmag.com/history/gruesome-story-hannah-duston-american-colonist-whose-slaying-indians-made-her-folk-hero-180968721/
 [^1211]: Donna J. Haraway, _Staying with the Trouble: Making Kin in the Chthulucene_ (Durham, NC: Duke University Press, 2016), 58 (sympoiesis); 118 (multispecies)
-[^a0c2]:  Sparks, _Wilderness_, 3-4 (revelation); 54 (dangerous business); Sweeney&#39;s story again captivated readers after being told in Michael Lesy&#39;s _Wisconsin Death Trip_ (University of New Mexico Press, 1973) and in James Marsh&#39;s 1999 docudrama of the same title. Sparks cites Lesy as an influence for the song in her _New York Times_ essay, &quot;[What the Woodpecker Told Me](https://opinionator.blogs.nytimes.com/2013/05/17/what-the-woodpecker-told-me/).&quot;
-[^4e0d]:  Haraway, _Staying with the Trouble_, 2 (Chthonic ones), 30-57 (&quot;Tentacular Thinking&quot;); Sparks, _Wilderness_, 76-77.
-[^19c2]:  Sparks, _Wilderness_, 17, 91; &quot;Compost&quot; is a recurring theme throughout _Staying with the Trouble_, for the fullest treatment of the concept as part of several stories, see 134-168. On humus see 2, 149, 160.
+[^a0c2]: Sparks, _Wilderness_, 3-4 (revelation); 54 (dangerous business); Sweeney&#39;s story again captivated readers after being told in Michael Lesy&#39;s _Wisconsin Death Trip_ (University of New Mexico Press, 1973) and in James Marsh&#39;s 1999 docudrama of the same title. Sparks cites Lesy as an influence for the song in her _New York Times_ essay, &quot;[What the Woodpecker Told Me](https://opinionator.blogs.nytimes.com/2013/05/17/what-the-woodpecker-told-me/).&quot;
+[^4e0d]: Haraway, _Staying with the Trouble_, 2 (Chthonic ones), 30-57 (&quot;Tentacular Thinking&quot;); Sparks, _Wilderness_, 76-77.
+[^19c2]: Sparks, _Wilderness_, 17, 91; &quot;Compost&quot; is a recurring theme throughout _Staying with the Trouble_, for the fullest treatment of the concept as part of several stories, see 134-168. On humus see 2, 149, 160.
