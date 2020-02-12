@@ -52,7 +52,8 @@ Despite the risk, the force of wilderness is seductive. The simultaneously jaunt
 
 To stare into the dark water is both to long for seduction in the present and to hope for communion with the deep past. &quot;Chthonic ones are beings of the earth,&quot; Haraway writes, &quot;both ancient and up-to-the-minute.&quot; To entangle ourselves in their tentacles and tentacular tales is &quot;not safe&quot; but &quot;living-with and dying-with each other in the Chthulucene can be a reply to the fierce dictates of both Anthropos and Capital.&quot; (Anthropos and Capital are references to the Anthropocene and Capitalocene, the latter a term of critique centering responsibility for ecological crises in capitalism). The octopus is the perfect creature to think with in this way. Sparks connects the prehistoric with the present in her essay, &quot;Octopus,&quot; imagining interactions with the giant cephalopods of the prehistoric ocean &quot;The creature would have been as large as a football field. Oh, to have seen it dance!&quot;[^4e0d]
 
->The second verse dreams of what that might be like: <br>
+The second verse dreams of what that might be like:
+
 >For if I should see an octopus lift its arms out of the sea <br>
 >Or see its shadow rising up across the rooftops above the street <br>
 >I&#39;d follow those dancing limbs to the spinning edge of the sky <br>
